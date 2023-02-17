@@ -1,0 +1,709 @@
+,country_txt,region_txt,latitude,longitude,doubtterr,multiple,success,suicide,attacktype1_txt,targtype1_txt,natlty1_txt,nperpcap,weaptype1_txt,nkill,nkillter,nwound,INT_LOG
+8434,Iraq,Middle East & North Africa,35.324825,43.766922,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Unknown,Iraq,0,Explosives,0,0.0,0.0,internat_unkown
+4642,Kenya,Sub-Saharan Africa,-0.393767,40.326616,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Telecommunication,Kenya,0,Explosives,0,0.0,0.0,international_attack
+9057,Iraq,Middle East & North Africa,36.158558,43.2551,terr,noseries_attack,realized_attack,no_suicide,Unknown,Military,Iraq,0,Unknown,3,0.0,0.0,domestic_attack
+4773,Sweden,Western Europe,61.305668,17.058146,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Private Citizens & Property,Sweden,0,Incendiary,0,0.0,0.0,internat_unkown
+693,India,South Asia,25.838593,84.579224,terr,noseries_attack,realized_attack,no_suicide,Assassination,Government (General),India,0,Firearms,1,0.0,0.0,internat_unkown
+10881,India,South Asia,33.966527,74.964225,terr,within_series,no_attack,suicide_attack,Armed Assault,Police,India,0,Explosives,8,3.0,3.0,international_attack
+8970,Iraq,Middle East & North Africa,35.271023,43.458084,terr,within_series,no_attack,suicide_attack,Bombing/Explosion,Private Citizens & Property,Iraq,0,Explosives,4,4.0,1.0,internat_unkown
+3824,Philippines,Southeast Asia,6.649968,122.133342,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Government (General),Philippines,0,Explosives,0,0.0,0.0,domestic_attack
+5143,Iraq,Middle East & North Africa,33.201535,44.665354,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Unknown,Iraq,0,Explosives,0,0.0,0.0,internat_unkown
+1390,India,South Asia,17.742874,81.396271,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Police,India,0,Explosives,0,0.0,0.0,internat_unkown
+7841,Turkey,Middle East & North Africa,37.330074,43.526169,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Unknown,Turkey,0,Explosives,0,0.0,0.0,domestic_attack
+9958,Iraq,Middle East & North Africa,34.477619,41.920773,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Business,Iraq,0,Explosives,3,0.0,0.0,domestic_attack
+4253,Iraq,Middle East & North Africa,33.953167,44.921906,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Private Citizens & Property,Iraq,0,Explosives,0,0.0,0.0,internat_unkown
+9473,Iraq,Middle East & North Africa,33.303566,44.371773,terr,within_series,no_attack,suicide_attack,Bombing/Explosion,Private Citizens & Property,Iraq,0,Explosives,1,1.0,0.0,internat_unkown
+2326,Philippines,Southeast Asia,13.757368,121.043512,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Military,Philippines,0,Firearms,2,0.0,0.0,internat_unkown
+1054,Philippines,Southeast Asia,11.287818,122.405893,doubt_terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Military,Philippines,0,Explosives,1,0.0,2.0,domestic_attack
+7587,Iraq,Middle East & North Africa,36.376823,42.448875,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Unknown,Iraq,0,Explosives,0,0.0,0.0,internat_unkown
+910,Philippines,Southeast Asia,6.652975,122.135651,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Business,Philippines,0,Explosives,0,0.0,0.0,domestic_attack
+4002,Mexico,North America,19.770775,-104.366758,doubt_terr,noseries_attack,realized_attack,no_suicide,Assassination,Journalists & Media,Mexico,0,Firearms,1,0.0,1.0,internat_unkown
+1547,Pakistan,South Asia,25.999413,63.047451,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Government (General),Pakistan,0,Explosives,0,0.0,0.0,domestic_attack
+7100,Iraq,Middle East & North Africa,33.764671,44.49743,terr,noseries_attack,realized_attack,no_suicide,Assassination,Government (General),Iraq,0,Firearms,1,0.0,0.0,internat_unkown
+987,Somalia,Sub-Saharan Africa,4.73538,45.2024,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Military,International,0,Explosives,0,0.0,0.0,domestic_attack
+8148,Egypt,Middle East & North Africa,30.968153,33.026352,terr,noseries_attack,realized_attack,no_suicide,Facility/Infrastructure Attack,Business,Egypt,0,Incendiary,0,0.0,0.0,domestic_attack
+6418,Afghanistan,South Asia,33.542622,68.415329,terr,noseries_attack,realized_attack,no_suicide,Unknown,Police,Afghanistan,0,Unknown,1,0.0,0.0,domestic_attack
+6260,Pakistan,South Asia,30.92211,66.45153,doubt_terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Military,Pakistan,0,Explosives,1,0.0,1.0,internat_unkown
+7939,Nigeria,Sub-Saharan Africa,5.533506,7.483412,doubt_terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Military,Nigeria,0,Firearms,0,0.0,2.0,domestic_attack
+4086,Pakistan,South Asia,24.891115,67.143311,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Utilities,Pakistan,2,Explosives,0,0.0,0.0,domestic_attack
+6421,Afghanistan,South Asia,33.542622,68.415329,terr,noseries_attack,realized_attack,no_suicide,Unknown,Police,Afghanistan,0,Unknown,0,0.0,1.0,domestic_attack
+8344,Iraq,Middle East & North Africa,35.503611,43.2325,terr,noseries_attack,realized_attack,no_suicide,Assassination,Private Citizens & Property,Iraq,0,Firearms,1,0.0,0.0,domestic_attack
+6082,Philippines,Southeast Asia,12.040278,123.983056,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Business,Philippines,0,Explosives,0,0.0,0.0,domestic_attack
+1295,Iraq,Middle East & North Africa,33.07835,44.254719,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Private Citizens & Property,Iraq,0,Explosives,0,0.0,4.0,domestic_attack
+8080,Afghanistan,South Asia,34.990047,63.132542,terr,noseries_attack,realized_attack,no_suicide,Hostage Taking (Kidnapping),Police,Afghanistan,0,Unknown,5,0.0,5.0,domestic_attack
+8992,Iraq,Middle East & North Africa,35.159471,44.382218,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Private Citizens & Property,Iraq,0,Firearms,0,0.0,0.0,domestic_attack
+8799,Afghanistan,South Asia,36.70993,67.1157,terr,noseries_attack,realized_attack,no_suicide,Assassination,Government (General),Afghanistan,0,Firearms,0,0.0,1.0,internat_unkown
+6496,Thailand,Southeast Asia,6.693399,101.309103,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Private Citizens & Property,Thailand,0,Firearms,1,0.0,1.0,internat_unkown
+9893,India,South Asia,20.293109,80.293784,terr,noseries_attack,realized_attack,no_suicide,Hostage Taking (Kidnapping),Private Citizens & Property,India,0,Melee,1,0.0,0.0,internat_unkown
+10295,Afghanistan,South Asia,34.526186,65.664921,terr,noseries_attack,realized_attack,no_suicide,Facility/Infrastructure Attack,Religious Figures/Institutions,Afghanistan,0,Incendiary,0,0.0,0.0,domestic_attack
+5029,Turkey,Middle East & North Africa,37.293709,43.671189,doubt_terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Military,Turkey,0,Explosives,0,0.0,6.0,domestic_attack
+9087,Kenya,Sub-Saharan Africa,-1.759261,40.594711,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Private Citizens & Property,Kenya,0,Firearms,0,0.0,5.0,international_attack
+4867,Philippines,Southeast Asia,16.9192,120.7623,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Business,Philippines,0,Explosives,0,0.0,0.0,domestic_attack
+2746,Iraq,Middle East & North Africa,33.860659,44.792119,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Utilities,Iraq,0,Explosives,0,0.0,0.0,domestic_attack
+9425,Iraq,Middle East & North Africa,33.944794,44.763939,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Private Citizens & Property,Iraq,0,Explosives,0,0.0,0.0,internat_unkown
+9630,Nepal,South Asia,28.496883,82.520922,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Violent Political Party,Nepal,0,Firearms,0,0.0,0.0,domestic_attack
+7924,Iraq,Middle East & North Africa,33.303566,44.371773,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Private Citizens & Property,Iraq,0,Explosives,0,0.0,2.0,internat_unkown
+2429,Iraq,Middle East & North Africa,36.354145,43.14357,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Private Citizens & Property,Iraq,0,Explosives,0,0.0,0.0,domestic_attack
+2826,Pakistan,South Asia,28.584053,65.416645,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Business,Pakistan,0,Firearms,4,0.0,0.0,internat_unkown
+936,India,South Asia,32.57727,75.014382,doubt_terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Military,India,0,Explosives,0,0.0,0.0,internat_unkown
+4046,Pakistan,South Asia,27.589064,68.002861,terr,noseries_attack,realized_attack,no_suicide,Assassination,Educational Institution,Pakistan,0,Firearms,1,0.0,0.0,internat_unkown
+6812,Afghanistan,South Asia,34.047015,68.991343,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Military,Afghanistan,0,Explosives,5,0.0,0.0,domestic_attack
+2745,Iraq,Middle East & North Africa,33.860659,44.792119,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Utilities,Iraq,0,Explosives,0,0.0,0.0,domestic_attack
+422,Afghanistan,South Asia,36.122909,65.42349,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Military,Afghanistan,0,Firearms,1,0.0,0.0,domestic_attack
+9981,Afghanistan,South Asia,32.893208,67.766917,terr,noseries_attack,realized_attack,no_suicide,Facility/Infrastructure Attack,Religious Figures/Institutions,Afghanistan,0,Incendiary,0,0.0,0.0,internat_unkown
+3792,Turkey,Middle East & North Africa,37.303442,44.57696,doubt_terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Military,Turkey,0,Explosives,1,0.0,0.0,domestic_attack
+7633,Afghanistan,South Asia,34.963098,68.810885,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Business,Afghanistan,0,Explosives,0,0.0,0.0,domestic_attack
+6834,Philippines,Southeast Asia,6.918611,124.451944,doubt_terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Military,Philippines,0,Firearms,0,0.0,2.0,domestic_attack
+8332,Philippines,Southeast Asia,8.115161,122.669979,terr,noseries_attack,realized_attack,no_suicide,Assassination,Government (General),Philippines,0,Firearms,2,0.0,2.0,internat_unkown
+1779,Greece,Western Europe,37.99749,23.762728,terr,noseries_attack,realized_attack,no_suicide,Facility/Infrastructure Attack,Business,Greece,0,Incendiary,0,0.0,0.0,internat_unkown
+9742,Nepal,South Asia,28.196107,82.59948,terr,noseries_attack,realized_attack,no_suicide,Assassination,Government (General),Nepal,0,Explosives,0,0.0,0.0,domestic_attack
+8379,Iraq,Middle East & North Africa,34.034291,44.134169,terr,within_series,no_attack,suicide_attack,Bombing/Explosion,Private Citizens & Property,Iraq,0,Explosives,2,2.0,0.0,internat_unkown
+2781,India,South Asia,28.73058,77.775883,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Private Citizens & Property,India,3,Explosives,0,0.0,2.0,internat_unkown
+8422,Iraq,Middle East & North Africa,35.324825,43.766922,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Unknown,Iraq,0,Explosives,0,0.0,0.0,internat_unkown
+897,Iraq,Middle East & North Africa,32.604393,44.007145,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Unknown,Iraq,0,Explosives,0,0.0,0.0,internat_unkown
+2719,West Bank and Gaza Strip,Middle East & North Africa,31.784838,35.224613,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Private Citizens & Property,Israel,0,Melee,1,1.0,3.0,domestic_attack
+9638,Nigeria,Sub-Saharan Africa,10.513085,7.425955,terr,noseries_attack,realized_attack,no_suicide,Hostage Taking (Kidnapping),Terrorists/Non-State Militia,Nigeria,0,Firearms,1,0.0,0.0,internat_unkown
+10445,India,South Asia,26.85884,95.322512,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Private Citizens & Property,India,0,Firearms,1,1.0,0.0,domestic_attack
+6007,Libya,Middle East & North Africa,32.069286,20.151144,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Private Citizens & Property,Libya,0,Explosives,2,0.0,1.0,internat_unkown
+6856,United States,North America,39.176086,-94.574127,terr,noseries_attack,realized_attack,no_suicide,Unarmed Assault,Government (General),United States,0,Chemical,0,0.0,10.0,internat_unkown
+9865,Iraq,Middle East & North Africa,36.354145,43.14357,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Private Citizens & Property,Iraq,0,Firearms,4,4.0,0.0,domestic_attack
+8253,Libya,Middle East & North Africa,30.757133,20.237541,terr,noseries_attack,realized_attack,no_suicide,Facility/Infrastructure Attack,Government (General),Libya,0,Incendiary,0,0.0,0.0,internat_unkown
+5577,Afghanistan,South Asia,33.449841,70.064041,terr,noseries_attack,realized_attack,no_suicide,Assassination,Private Citizens & Property,Afghanistan,0,Firearms,1,0.0,0.0,internat_unkown
+5073,Saudi Arabia,Middle East & North Africa,16.691499,42.942709,doubt_terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Military,Saudi Arabia,0,Explosives,1,0.0,0.0,international_attack
+3777,Somalia,Sub-Saharan Africa,3.312293,43.47213,doubt_terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Military,Somalia,0,Explosives,3,0.0,3.0,domestic_attack
+10786,Kenya,Sub-Saharan Africa,-2.365494,40.320879,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Private Citizens & Property,Kenya,0,Firearms,2,0.0,0.0,international_attack
+3384,Somalia,Sub-Saharan Africa,10.989985,49.056877,doubt_terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Military,Somalia,0,Explosives,8,0.0,3.0,domestic_attack
+928,Iraq,Middle East & North Africa,33.19392,44.408577,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Police,Iraq,0,Explosives,1,0.0,3.0,internat_unkown
+8271,Iraq,Middle East & North Africa,35.16296,44.422688,doubt_terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Military,Iraq,0,Explosives,3,0.0,5.0,domestic_attack
+4578,Afghanistan,South Asia,34.195751,70.786385,doubt_terr,noseries_attack,realized_attack,no_suicide,Unknown,Military,Afghanistan,0,Unknown,4,4.0,6.0,domestic_attack
+8889,Iraq,Middle East & North Africa,33.953178,44.206818,terr,within_series,no_attack,suicide_attack,Bombing/Explosion,Private Citizens & Property,Iraq,1,Explosives,2,2.0,0.0,domestic_attack
+3132,India,South Asia,18.184536,81.411415,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Unknown,India,0,Explosives,0,0.0,0.0,internat_unkown
+2033,Somalia,Sub-Saharan Africa,2.059819,45.326115,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Government (General),Somalia,0,Firearms,1,0.0,0.0,internat_unkown
+9645,Pakistan,South Asia,34.759768,71.490142,doubt_terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Military,Pakistan,0,Firearms,12,10.0,4.0,domestic_attack
+6394,Bangladesh,South Asia,22.856246,89.436787,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Business,Bangladesh,0,Explosives,0,0.0,0.0,domestic_attack
+7132,Philippines,Southeast Asia,7.512998,125.931549,doubt_terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Military,Philippines,0,Firearms,1,0.0,1.0,domestic_attack
+2558,Philippines,Southeast Asia,8.076887,125.045419,terr,noseries_attack,realized_attack,no_suicide,Facility/Infrastructure Attack,Business,Philippines,0,Incendiary,0,0.0,0.0,domestic_attack
+7248,Philippines,Southeast Asia,10.117858,123.224263,terr,noseries_attack,realized_attack,no_suicide,Assassination,Private Citizens & Property,Philippines,0,Firearms,1,0.0,2.0,domestic_attack
+5546,Turkey,Middle East & North Africa,40.814221,39.610662,doubt_terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Military,Turkey,0,Explosives,0,0.0,2.0,domestic_attack
+2564,Somalia,Sub-Saharan Africa,2.86732,43.003516,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Government (General),Somalia,0,Firearms,11,9.0,1.0,domestic_attack
+3838,Iraq,Middle East & North Africa,36.354145,43.14357,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Unknown,Iraq,0,Explosives,0,0.0,0.0,domestic_attack
+2042,Afghanistan,South Asia,31.589827,64.337952,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Government (General),Afghanistan,0,Firearms,1,0.0,0.0,internat_unkown
+9960,Iraq,Middle East & North Africa,32.559761,41.919647,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Unknown,Iraq,0,Explosives,0,0.0,0.0,domestic_attack
+8358,India,South Asia,19.912982,80.986352,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Military,India,0,Explosives,0,0.0,0.0,internat_unkown
+9644,Iraq,Middle East & North Africa,34.477619,41.920773,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Unknown,Iraq,0,Explosives,0,0.0,0.0,domestic_attack
+4270,Afghanistan,South Asia,32.066014,64.852646,terr,noseries_attack,realized_attack,no_suicide,Hostage Taking (Kidnapping),Police,Afghanistan,0,Unknown,6,0.0,3.0,domestic_attack
+9315,Pakistan,South Asia,28.490733,65.095779,terr,noseries_attack,realized_attack,no_suicide,Unarmed Assault,Journalists & Media,Pakistan,0,Incendiary,0,0.0,1.0,domestic_attack
+2003,Colombia,South America,2.704981,-76.825965,terr,noseries_attack,realized_attack,no_suicide,Hostage Taking (Barricade Incident),Journalists & Media,Colombia,0,Firearms,0,0.0,0.0,domestic_attack
+9755,Iraq,Middle East & North Africa,36.15037,43.253711,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Private Citizens & Property,Iraq,0,Firearms,2,0.0,1.0,domestic_attack
+9273,Nigeria,Sub-Saharan Africa,11.868845,13.251158,terr,within_series,no_attack,suicide_attack,Bombing/Explosion,Police,Nigeria,0,Explosives,2,2.0,0.0,domestic_attack
+8016,Afghanistan,South Asia,34.417122,70.449593,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Business,Afghanistan,0,Explosives,1,0.0,8.0,internat_unkown
+9421,Burkina Faso,Sub-Saharan Africa,14.092182,-1.36694,terr,noseries_attack,realized_attack,no_suicide,Facility/Infrastructure Attack,Police,Burkina Faso,0,Incendiary,0,0.0,0.0,internat_unkown
+1309,Somalia,Sub-Saharan Africa,2.619745,44.893681,doubt_terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Military,Somalia,0,Explosives,2,0.0,4.0,domestic_attack
+7097,Iraq,Middle East & North Africa,36.060707,41.260052,doubt_terr,noseries_attack,realized_attack,no_suicide,Unknown,Military,Iraq,0,Unknown,20,20.0,8.0,domestic_attack
+8523,Afghanistan,South Asia,35.953161,64.63787,terr,noseries_attack,realized_attack,no_suicide,Unknown,Private Citizens & Property,Afghanistan,0,Unknown,0,0.0,0.0,domestic_attack
+1492,Afghanistan,South Asia,32.6562,65.903198,terr,noseries_attack,realized_attack,no_suicide,Unknown,Police,Afghanistan,0,Unknown,14,10.0,15.0,internat_unkown
+5202,Afghanistan,South Asia,34.83084,70.363266,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Business,Afghanistan,0,Explosives,4,0.0,0.0,domestic_attack
+209,Ukraine,Eastern Europe,46.482526,30.72331,doubt_terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Private Citizens & Property,Ukraine,0,Explosives,2,0.0,1.0,internat_unkown
+399,Syria,Middle East & North Africa,35.991705,36.393812,terr,noseries_attack,realized_attack,no_suicide,Hostage Taking (Kidnapping),NGO,International,0,Firearms,0,0.0,0.0,domestic_attack
+2663,Iraq,Middle East & North Africa,33.303566,44.371773,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Business,Iraq,0,Explosives,0,0.0,2.0,internat_unkown
+3540,Philippines,Southeast Asia,16.270042,121.537,terr,noseries_attack,realized_attack,no_suicide,Facility/Infrastructure Attack,Business,Philippines,0,Incendiary,0,0.0,0.0,domestic_attack
+4478,Pakistan,South Asia,29.552311,66.020508,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Government (General),Pakistan,0,Firearms,1,0.0,0.0,internat_unkown
+2969,India,South Asia,34.11404,74.67041,terr,noseries_attack,realized_attack,no_suicide,Facility/Infrastructure Attack,Government (General),India,0,Incendiary,0,0.0,0.0,internat_unkown
+1947,India,South Asia,23.292125,76.893216,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Transportation,India,-99,Explosives,0,0.0,10.0,international_attack
+9131,Afghanistan,South Asia,35.564601,64.431892,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Religious Figures/Institutions,Afghanistan,0,Firearms,3,0.0,1.0,internat_unkown
+6775,Afghanistan,South Asia,33.598633,69.228996,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Private Citizens & Property,Afghanistan,0,Explosives,0,0.0,0.0,internat_unkown
+9793,Nepal,South Asia,27.437603,87.112356,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Violent Political Party,Nepal,0,Explosives,0,0.0,0.0,internat_unkown
+3867,Nepal,South Asia,28.637256,81.806744,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Government (General),Nepal,0,Explosives,0,0.0,0.0,internat_unkown
+7584,Iraq,Middle East & North Africa,36.370963,42.529426,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Unknown,Iraq,0,Explosives,0,0.0,0.0,internat_unkown
+6869,Mali,Sub-Saharan Africa,15.329201,-0.001457,terr,noseries_attack,realized_attack,no_suicide,Hostage Taking (Kidnapping),Private Citizens & Property,Mali,0,Firearms,4,0.0,0.0,domestic_attack
+1682,Pakistan,South Asia,26.458388,65.230796,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Unknown,Pakistan,0,Explosives,0,0.0,0.0,internat_unkown
+1701,India,South Asia,18.08385,81.485761,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Business,India,0,Explosives,0,0.0,0.0,internat_unkown
+7600,Pakistan,South Asia,29.559465,67.475424,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Utilities,Pakistan,0,Explosives,0,0.0,0.0,internat_unkown
+9810,Pakistan,South Asia,31.862567,70.901862,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Private Citizens & Property,Pakistan,0,Firearms,3,0.0,0.0,internat_unkown
+1336,Iraq,Middle East & North Africa,33.303566,44.371773,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Unknown,Iraq,0,Explosives,0,0.0,0.0,internat_unkown
+3239,Yemen,Middle East & North Africa,15.325556,45.276111,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Private Citizens & Property,Yemen,0,Explosives,0,0.0,3.0,domestic_attack
+9725,Philippines,Southeast Asia,8.225147,123.429944,doubt_terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Military,Philippines,0,Firearms,1,0.0,0.0,internat_unkown
+8441,Philippines,Southeast Asia,6.688284,121.950077,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Government (General),Philippines,0,Explosives,0,0.0,0.0,internat_unkown
+2401,United Kingdom,Western Europe,51.504387,-0.140041,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Police,Great Britain,0,Melee,6,1.0,50.0,internat_unkown
+56,United States,North America,41.842602,-87.681229,terr,noseries_attack,realized_attack,no_suicide,Hostage Taking (Kidnapping),Private Citizens & Property,United States,4,Melee,0,0.0,1.0,internat_unkown
+6954,Lebanon,Middle East & North Africa,34.434606,35.842489,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Religious Figures/Institutions,Lebanon,0,Explosives,0,0.0,0.0,international_attack
+6862,Iraq,Middle East & North Africa,33.489536,43.22139,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Private Citizens & Property,Iraq,0,Explosives,2,0.0,3.0,domestic_attack
+2289,India,South Asia,27.159083,77.990667,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Transportation,India,0,Explosives,0,0.0,0.0,international_attack
+4000,Pakistan,South Asia,27.694357,68.836222,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Business,Pakistan,0,Firearms,2,0.0,0.0,internat_unkown
+5877,Afghanistan,South Asia,34.275699,70.379682,terr,noseries_attack,realized_attack,no_suicide,Hostage Taking (Kidnapping),Religious Figures/Institutions,Afghanistan,0,Firearms,3,0.0,3.0,internat_unkown
+8838,India,South Asia,33.824277,74.853225,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Business,India,0,Explosives,0,0.0,2.0,internat_unkown
+4004,Kyrgyzstan,Central Asia,40.933154,72.981488,terr,noseries_attack,realized_attack,no_suicide,Facility/Infrastructure Attack,Private Citizens & Property,Kyrgyzstan,0,Incendiary,0,0.0,0.0,internat_unkown
+4205,Iraq,Middle East & North Africa,33.185299,44.26778,doubt_terr,within_series,no_attack,suicide_attack,Bombing/Explosion,Military,Iraq,0,Explosives,1,1.0,2.0,internat_unkown
+2216,Turkey,Middle East & North Africa,37.541288,40.548766,doubt_terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Military,Turkey,0,Explosives,2,0.0,0.0,domestic_attack
+747,Yemen,Middle East & North Africa,13.180692,44.30418,terr,noseries_attack,realized_attack,no_suicide,Hostage Taking (Kidnapping),Government (General),Yemen,0,Unknown,0,0.0,0.0,internat_unkown
+1052,Pakistan,South Asia,26.072748,62.650782,doubt_terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Military,Pakistan,0,Explosives,0,0.0,4.0,internat_unkown
+9925,Libya,Middle East & North Africa,29.981329,14.24356,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Food or Water Supply,Libya,0,Explosives,0,0.0,0.0,domestic_attack
+6117,Pakistan,South Asia,30.200819,66.994354,terr,noseries_attack,realized_attack,no_suicide,Assassination,Police,Pakistan,-99,Firearms,4,0.0,1.0,domestic_attack
+6646,India,South Asia,33.850486,74.918527,terr,noseries_attack,realized_attack,no_suicide,Unarmed Assault,Private Citizens & Property,India,0,Melee,0,0.0,1.0,internat_unkown
+10553,Yemen,Middle East & North Africa,15.45639,45.324871,terr,noseries_attack,realized_attack,no_suicide,Assassination,Violent Political Party,Yemen,0,Explosives,0,0.0,0.0,internat_unkown
+8616,Mali,Sub-Saharan Africa,14.769444,-1.839722,terr,noseries_attack,realized_attack,no_suicide,Hostage Taking (Kidnapping),Private Citizens & Property,Mali,0,Unknown,0,0.0,0.0,internat_unkown
+7233,Yemen,Middle East & North Africa,15.075436,43.740577,terr,noseries_attack,realized_attack,no_suicide,Assassination,Government (General),Yemen,0,Unknown,0,0.0,0.0,internat_unkown
+9813,Pakistan,South Asia,34.717893,71.168044,doubt_terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Military,Pakistan,0,Firearms,0,0.0,0.0,domestic_attack
+4575,Nigeria,Sub-Saharan Africa,11.64816,13.243356,terr,noseries_attack,realized_attack,no_suicide,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,0,Melee,5,0.0,0.0,domestic_attack
+2121,Philippines,Southeast Asia,17.582784,121.005421,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Police,Philippines,0,Explosives,0,0.0,5.0,domestic_attack
+10044,Sudan,Sub-Saharan Africa,13.498908,24.857937,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Private Citizens & Property,Sudan,0,Firearms,0,0.0,2.0,internat_unkown
+10738,Turkey,Middle East & North Africa,37.303442,44.57696,doubt_terr,noseries_attack,realized_attack,no_suicide,Unknown,Military,Turkey,0,Unknown,2,0.0,1.0,domestic_attack
+417,Nigeria,Sub-Saharan Africa,11.840929,13.141459,terr,within_series,no_attack,suicide_attack,Bombing/Explosion,Religious Figures/Institutions,Nigeria,0,Explosives,2,1.0,8.0,domestic_attack
+10836,Pakistan,South Asia,29.034412,69.158661,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Religious Figures/Institutions,Pakistan,0,Explosives,1,0.0,0.0,internat_unkown
+6021,Iraq,Middle East & North Africa,36.354145,43.14357,terr,within_series,no_attack,suicide_attack,Bombing/Explosion,Military,Iraq,0,Explosives,3,3.0,0.0,domestic_attack
+7232,Jordan,Middle East & North Africa,30.279669,35.483011,terr,noseries_attack,realized_attack,no_suicide,Facility/Infrastructure Attack,Utilities,Jordan,0,Firearms,0,0.0,0.0,internat_unkown
+886,Somalia,Sub-Saharan Africa,2.059819,45.326115,terr,noseries_attack,realized_attack,no_suicide,Assassination,Government (General),Somalia,0,Explosives,0,0.0,0.0,internat_unkown
+7162,Somalia,Sub-Saharan Africa,2.059819,45.326115,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Private Citizens & Property,Somalia,0,Firearms,3,0.0,4.0,internat_unkown
+9538,Iraq,Middle East & North Africa,32.867008,44.220455,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Private Citizens & Property,Iraq,0,Firearms,0,0.0,0.0,domestic_attack
+9240,Nigeria,Sub-Saharan Africa,11.485018,12.311891,terr,noseries_attack,realized_attack,no_suicide,Unknown,Private Citizens & Property,Nigeria,0,Unknown,0,0.0,0.0,domestic_attack
+5356,West Bank and Gaza Strip,Middle East & North Africa,31.861471,35.208427,doubt_terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Military,Israel,0,Melee,1,1.0,0.0,domestic_attack
+6206,Iran,Middle East & North Africa,27.352729,62.34461,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Private Citizens & Property,Iran,0,Explosives,3,1.0,2.0,internat_unkown
+4439,Somalia,Sub-Saharan Africa,2.059819,45.326115,terr,noseries_attack,realized_attack,no_suicide,Assassination,Government (General),Somalia,0,Firearms,1,0.0,0.0,internat_unkown
+7095,Iraq,Middle East & North Africa,36.028752,43.28885,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Unknown,Iraq,3,Explosives,0,0.0,0.0,domestic_attack
+10857,Iraq,Middle East & North Africa,35.45211,44.375465,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Business,Iraq,0,Explosives,0,0.0,0.0,internat_unkown
+8612,Pakistan,South Asia,33.919846,70.893856,doubt_terr,noseries_attack,realized_attack,no_suicide,Unknown,Military,Pakistan,0,Unknown,1,0.0,1.0,internat_unkown
+4805,Kenya,Sub-Saharan Africa,-0.185815,40.37656,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,NGO,International,0,Explosives,3,0.0,1.0,international_attack
+6525,Burkina Faso,Sub-Saharan Africa,14.385392,-1.398095,terr,noseries_attack,realized_attack,no_suicide,Hostage Taking (Kidnapping),Private Citizens & Property,Burkina Faso,0,Firearms,2,0.0,0.0,internat_unkown
+2286,Philippines,Southeast Asia,13.654084,123.167483,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Military,Philippines,0,Firearms,1,0.0,3.0,domestic_attack
+4981,Democratic Republic of the Congo,Sub-Saharan Africa,-4.389166,15.33762,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Police,Democratic Republic of the Congo,0,Firearms,1,1.0,2.0,domestic_attack
+185,Iraq,Middle East & North Africa,31.98958,44.923775,terr,noseries_attack,realized_attack,no_suicide,Assassination,Police,Iraq,0,Firearms,0,0.0,0.0,internat_unkown
+979,Iraq,Middle East & North Africa,33.426758,44.228073,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Unknown,Iraq,0,Explosives,0,0.0,0.0,internat_unkown
+260,Ethiopia,Sub-Saharan Africa,12.606383,37.461491,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Business,Ethiopia,0,Explosives,1,0.0,11.0,internat_unkown
+6894,Iraq,Middle East & North Africa,33.303566,44.371773,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Private Citizens & Property,Iraq,0,Explosives,1,0.0,0.0,internat_unkown
+9679,Iraq,Middle East & North Africa,35.137009,44.44664,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Government (General),Iraq,0,Explosives,0,0.0,0.0,domestic_attack
+8894,Afghanistan,South Asia,34.875656,71.152008,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Police,Afghanistan,0,Firearms,10,10.0,6.0,domestic_attack
+8395,India,South Asia,34.407706,74.395019,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Military,India,0,Firearms,0,0.0,0.0,international_attack
+8844,Syria,Middle East & North Africa,35.964956,40.902176,terr,within_series,no_attack,suicide_attack,Bombing/Explosion,Police,Syria,0,Explosives,19,2.0,100.0,domestic_attack
+9779,Afghanistan,South Asia,32.749992,62.586651,terr,noseries_attack,realized_attack,no_suicide,Unknown,Police,Afghanistan,0,Unknown,4,2.0,3.0,domestic_attack
+1000,Philippines,Southeast Asia,7.237173,126.160289,terr,noseries_attack,realized_attack,no_suicide,Facility/Infrastructure Attack,Business,Philippines,0,Incendiary,0,0.0,0.0,domestic_attack
+5926,Egypt,Middle East & North Africa,30.230907,31.395412,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Police,Egypt,0,Firearms,1,0.0,0.0,domestic_attack
+9589,Iraq,Middle East & North Africa,34.030712,44.063866,doubt_terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Military,Iraq,0,Explosives,0,0.0,1.0,domestic_attack
+2182,France,Western Europe,43.17857,3.000771,terr,noseries_attack,realized_attack,no_suicide,Facility/Infrastructure Attack,Business,France,0,Incendiary,0,0.0,0.0,domestic_attack
+8660,Mozambique,Sub-Saharan Africa,-11.353599,40.35224,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Business,Mozambique,0,Firearms,0,0.0,0.0,domestic_attack
+7948,Yemen,Middle East & North Africa,15.731798,44.519237,doubt_terr,noseries_attack,realized_attack,no_suicide,Unknown,Military,Yemen,0,Unknown,0,0.0,0.0,domestic_attack
+6328,Afghanistan,South Asia,33.246906,62.282958,doubt_terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Military,Afghanistan,0,Firearms,11,11.0,17.0,domestic_attack
+5388,Iraq,Middle East & North Africa,33.185299,44.26778,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Private Citizens & Property,Iraq,0,Explosives,0,0.0,2.0,internat_unkown
+5004,Lebanon,Middle East & North Africa,33.542004,35.381153,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Terrorists/Non-State Militia,West Bank and Gaza Strip,0,Explosives,0,0.0,0.0,internat_unkown
+3284,France,Western Europe,48.856644,2.34233,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Police,France,0,Firearms,2,1.0,3.0,internat_unkown
+7043,Pakistan,South Asia,24.891115,67.143311,terr,noseries_attack,realized_attack,no_suicide,Assassination,Police,Pakistan,0,Firearms,2,0.0,0.0,domestic_attack
+5464,Kenya,Sub-Saharan Africa,3.188289,41.321501,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Private Citizens & Property,Kenya,0,Explosives,0,0.0,2.0,international_attack
+2889,Thailand,Southeast Asia,6.015119,101.951925,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Utilities,Thailand,0,Explosives,0,0.0,0.0,domestic_attack
+9783,Nigeria,Sub-Saharan Africa,11.940921,13.253357,terr,within_series,no_attack,suicide_attack,Bombing/Explosion,Unknown,Nigeria,0,Explosives,2,2.0,0.0,domestic_attack
+10306,Iraq,Middle East & North Africa,33.95724,44.290323,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Police,Iraq,0,Firearms,1,0.0,0.0,internat_unkown
+8724,India,South Asia,24.798346,93.94043,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Private Citizens & Property,India,0,Explosives,0,0.0,0.0,internat_unkown
+1639,Iraq,Middle East & North Africa,33.303566,44.371773,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Business,Iraq,0,Explosives,0,0.0,1.0,internat_unkown
+3179,Iraq,Middle East & North Africa,36.354145,43.14357,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Unknown,Iraq,0,Explosives,0,0.0,0.0,internat_unkown
+9170,Pakistan,South Asia,34.006004,71.53743,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Unknown,Pakistan,0,Explosives,0,0.0,0.0,internat_unkown
+9465,Mali,Sub-Saharan Africa,15.843328,-4.324408,doubt_terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Military,Mali,0,Explosives,0,0.0,3.0,domestic_attack
+178,United Kingdom,Western Europe,54.607712,-5.95621,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Private Citizens & Property,Northern Ireland,0,Firearms,0,0.0,1.0,internat_unkown
+350,India,South Asia,22.417103,72.896708,terr,noseries_attack,realized_attack,no_suicide,Assassination,Violent Political Party,India,0,Firearms,0,0.0,1.0,internat_unkown
+8025,United Kingdom,Western Europe,54.862163,-5.844744,terr,noseries_attack,realized_attack,no_suicide,Facility/Infrastructure Attack,Private Citizens & Property,Northern Ireland,0,Incendiary,0,0.0,0.0,internat_unkown
+2670,Philippines,Southeast Asia,11.778665,124.978519,doubt_terr,noseries_attack,realized_attack,no_suicide,Unknown,Military,Philippines,0,Unknown,0,0.0,0.0,domestic_attack
+3477,Nigeria,Sub-Saharan Africa,12.251667,12.336111,doubt_terr,within_series,no_attack,suicide_attack,Bombing/Explosion,Military,Nigeria,0,Explosives,6,1.0,40.0,domestic_attack
+8633,Iraq,Middle East & North Africa,35.295399,43.679208,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Unknown,Iraq,0,Explosives,3,3.0,0.0,domestic_attack
+3901,Afghanistan,South Asia,34.19056,69.090227,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Military,Afghanistan,0,Explosives,4,4.0,0.0,domestic_attack
+5806,Iraq,Middle East & North Africa,33.303566,44.371773,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Private Citizens & Property,Iraq,0,Explosives,1,0.0,3.0,internat_unkown
+10370,Iraq,Middle East & North Africa,33.375759,44.702866,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Private Citizens & Property,Iraq,0,Explosives,0,0.0,5.0,internat_unkown
+1388,Iraq,Middle East & North Africa,33.100529,44.584492,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Private Citizens & Property,Iraq,0,Explosives,1,0.0,3.0,internat_unkown
+9059,Afghanistan,South Asia,34.516895,69.147011,terr,within_series,no_attack,suicide_attack,Bombing/Explosion,Religious Figures/Institutions,Afghanistan,0,Explosives,57,1.0,55.0,domestic_attack
+1064,Iraq,Middle East & North Africa,36.354145,43.14357,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Private Citizens & Property,Iraq,0,Explosives,1,0.0,2.0,domestic_attack
+5414,India,South Asia,19.452438,81.251883,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Police,India,0,Explosives,0,0.0,0.0,internat_unkown
+3818,Afghanistan,South Asia,34.361565,61.744975,terr,noseries_attack,realized_attack,no_suicide,Assassination,Private Citizens & Property,Afghanistan,0,Firearms,1,0.0,0.0,internat_unkown
+3959,Nepal,South Asia,27.676503,85.374334,terr,noseries_attack,realized_attack,no_suicide,Assassination,Violent Political Party,Nepal,0,Explosives,0,0.0,0.0,internat_unkown
+6930,Iraq,Middle East & North Africa,33.906048,44.724545,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Private Citizens & Property,Iraq,0,Explosives,1,0.0,2.0,domestic_attack
+8931,Syria,Middle East & North Africa,33.515244,36.292084,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Private Citizens & Property,Syria,0,Explosives,0,0.0,0.0,internat_unkown
+3853,Iraq,Middle East & North Africa,33.351177,44.205009,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Private Citizens & Property,Iraq,0,Explosives,0,0.0,2.0,internat_unkown
+6663,Pakistan,South Asia,26.92475,63.390582,doubt_terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Private Citizens & Property,Pakistan,0,Explosives,4,0.0,5.0,internat_unkown
+8985,India,South Asia,30.898024,75.860077,doubt_terr,noseries_attack,realized_attack,no_suicide,Assassination,Terrorists/Non-State Militia,India,2,Firearms,1,0.0,0.0,domestic_attack
+2958,Pakistan,South Asia,31.50547,74.34288,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Police,Pakistan,0,Firearms,10,10.0,0.0,domestic_attack
+69,Central African Republic,Sub-Saharan Africa,6.879722,15.554444,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Government (Diplomatic),International,0,Firearms,1,0.0,0.0,internat_unkown
+3672,Nigeria,Sub-Saharan Africa,6.510264,4.173192,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Police,Nigeria,0,Firearms,1,0.0,2.0,internat_unkown
+10143,Thailand,Southeast Asia,6.241925,101.809358,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Private Citizens & Property,Thailand,0,Explosives,0,0.0,2.0,internat_unkown
+476,Mali,Sub-Saharan Africa,16.263981,-0.027987,doubt_terr,within_series,no_attack,suicide_attack,Bombing/Explosion,Military,Mali,0,Explosives,82,5.0,115.0,international_attack
+355,Somalia,Sub-Saharan Africa,2.059819,45.326115,doubt_terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Military,Somalia,0,Firearms,1,0.0,0.0,internat_unkown
+5035,Democratic Republic of the Congo,Sub-Saharan Africa,-7.424108,22.49952,terr,noseries_attack,realized_attack,no_suicide,Hostage Taking (Kidnapping),NGO,Democratic Republic of the Congo,0,Firearms,5,0.0,0.0,internat_unkown
+3451,Ethiopia,Sub-Saharan Africa,12.606383,37.461491,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Military,Ethiopia,0,Explosives,0,0.0,5.0,internat_unkown
+8275,Iraq,Middle East & North Africa,34.367733,41.985275,doubt_terr,within_series,no_attack,suicide_attack,Bombing/Explosion,Military,Iraq,0,Explosives,1,1.0,0.0,internat_unkown
+9116,Afghanistan,South Asia,35.921051,64.774544,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Terrorists/Non-State Militia,Afghanistan,0,Explosives,0,0.0,8.0,internat_unkown
+7234,Burkina Faso,Sub-Saharan Africa,14.068327,-1.48137,doubt_terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Military,Burkina Faso,0,Explosives,3,0.0,2.0,domestic_attack
+7371,Nigeria,Sub-Saharan Africa,5.893643,5.535237,doubt_terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Military,Nigeria,4,Firearms,6,6.0,1.0,internat_unkown
+3251,Iraq,Middle East & North Africa,32.559761,41.919647,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Unknown,Iraq,1,Explosives,0,0.0,0.0,internat_unkown
+8751,Pakistan,South Asia,33.976307,71.437157,terr,noseries_attack,realized_attack,no_suicide,Assassination,Government (General),Pakistan,0,Firearms,0,0.0,1.0,internat_unkown
+9015,Afghanistan,South Asia,33.272479,62.369341,terr,noseries_attack,realized_attack,no_suicide,Unknown,Government (General),Afghanistan,0,Unknown,9,9.0,6.0,internat_unkown
+8033,India,South Asia,25.294554,90.604297,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Unknown,India,0,Explosives,0,0.0,0.0,internat_unkown
+349,Pakistan,South Asia,30.181742,71.423999,terr,noseries_attack,realized_attack,no_suicide,Hostage Taking (Kidnapping),Government (General),Pakistan,0,Firearms,0,0.0,2.0,domestic_attack
+6105,Pakistan,South Asia,29.901324,69.259697,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Private Citizens & Property,Pakistan,0,Explosives,0,0.0,0.0,internat_unkown
+4252,Pakistan,South Asia,34.135,71.538611,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Unknown,Pakistan,0,Explosives,0,0.0,0.0,internat_unkown
+2907,Thailand,Southeast Asia,6.503827,100.845147,terr,noseries_attack,realized_attack,no_suicide,Facility/Infrastructure Attack,Utilities,Thailand,0,Incendiary,0,0.0,0.0,domestic_attack
+4875,Iraq,Middle East & North Africa,36.354145,43.14357,doubt_terr,noseries_attack,realized_attack,no_suicide,Unknown,Military,Iraq,0,Unknown,0,0.0,2.0,domestic_attack
+2876,Syria,Middle East & North Africa,35.252605,36.756168,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Private Citizens & Property,Syria,0,Firearms,21,0.0,0.0,internat_unkown
+307,Iraq,Middle East & North Africa,33.303566,44.371773,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Private Citizens & Property,Iraq,0,Explosives,1,0.0,5.0,internat_unkown
+4997,Afghanistan,South Asia,36.954285,65.126399,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Religious Figures/Institutions,Afghanistan,0,Firearms,2,0.0,1.0,domestic_attack
+8426,Iraq,Middle East & North Africa,35.324825,43.766922,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Unknown,Iraq,0,Explosives,0,0.0,0.0,internat_unkown
+8128,Iraq,Middle East & North Africa,33.953167,44.921906,terr,within_series,no_attack,suicide_attack,Bombing/Explosion,Unknown,Iraq,0,Explosives,1,1.0,0.0,internat_unkown
+2751,Nigeria,Sub-Saharan Africa,11.922882,13.281358,terr,within_series,no_attack,suicide_attack,Bombing/Explosion,Private Citizens & Property,Nigeria,0,Explosives,1,1.0,0.0,domestic_attack
+766,Iraq,Middle East & North Africa,36.513781,42.735193,doubt_terr,within_series,no_attack,suicide_attack,Bombing/Explosion,Military,Iraq,0,Explosives,7,7.0,0.0,domestic_attack
+6079,Iraq,Middle East & North Africa,36.138344,43.000267,terr,noseries_attack,realized_attack,no_suicide,Unknown,Military,Iraq,0,Unknown,5,4.0,0.0,domestic_attack
+5607,Ireland,Western Europe,53.361675,-6.245485,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Unknown,Ireland,0,Explosives,0,0.0,0.0,internat_unkown
+10722,Germany,Western Europe,52.50153,13.401851,terr,within_series,no_attack,suicide_attack,Armed Assault,Private Citizens & Property,Germany,1,Incendiary,0,0.0,1.0,internat_unkown
+7722,Pakistan,South Asia,30.755278,70.371667,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Police,Pakistan,0,Firearms,1,0.0,0.0,internat_unkown
+10606,Pakistan,South Asia,28.46681,68.274078,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Utilities,Pakistan,0,Explosives,0,0.0,0.0,domestic_attack
+10717,Yemen,Middle East & North Africa,13.705788,43.289405,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Transportation,Yemen,0,Explosives,5,0.0,7.0,internat_unkown
+6829,Iraq,Middle East & North Africa,36.354145,43.14357,doubt_terr,within_series,no_attack,suicide_attack,Bombing/Explosion,Military,Iraq,0,Explosives,4,1.0,0.0,domestic_attack
+1461,Afghanistan,South Asia,35.736111,65.356944,terr,noseries_attack,realized_attack,no_suicide,Assassination,Private Citizens & Property,Afghanistan,0,Unknown,1,0.0,0.0,domestic_attack
+4173,Afghanistan,South Asia,33.677655,68.670588,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Private Citizens & Property,Afghanistan,0,Firearms,5,5.0,0.0,domestic_attack
+9024,Iraq,Middle East & North Africa,33.303566,44.371773,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Private Citizens & Property,Iraq,0,Explosives,2,0.0,0.0,internat_unkown
+20,Sudan,Sub-Saharan Africa,12.959799,24.039829,doubt_terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Private Citizens & Property,Sudan,0,Firearms,8,0.0,60.0,domestic_attack
+773,Mali,Sub-Saharan Africa,15.00705,-2.954305,terr,noseries_attack,realized_attack,no_suicide,Assassination,Government (General),Mali,0,Firearms,1,0.0,0.0,internat_unkown
+9871,India,South Asia,21.09666,81.031411,terr,noseries_attack,realized_attack,no_suicide,Hostage Taking (Kidnapping),Private Citizens & Property,India,0,Firearms,1,0.0,0.0,internat_unkown
+5182,Libya,Middle East & North Africa,30.757133,20.237541,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Police,Libya,0,Explosives,0,0.0,2.0,internat_unkown
+1474,Saudi Arabia,Middle East & North Africa,16.524263,42.967896,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Private Citizens & Property,Saudi Arabia,0,Explosives,0,0.0,3.0,international_attack
+8550,Iraq,Middle East & North Africa,32.539668,44.415685,terr,within_series,no_attack,suicide_attack,Bombing/Explosion,Private Citizens & Property,Iraq,0,Explosives,2,2.0,0.0,internat_unkown
+128,Pakistan,South Asia,30.585,66.8725,terr,noseries_attack,realized_attack,no_suicide,Assassination,Private Citizens & Property,Pakistan,0,Firearms,1,0.0,0.0,internat_unkown
+3703,Afghanistan,South Asia,34.064349,70.644179,doubt_terr,within_series,no_attack,suicide_attack,Bombing/Explosion,Military,Afghanistan,0,Explosives,2,2.0,0.0,domestic_attack
+8066,India,South Asia,18.062032,81.974065,terr,noseries_attack,realized_attack,no_suicide,Facility/Infrastructure Attack,Private Citizens & Property,India,0,Firearms,0,0.0,0.0,domestic_attack
+8305,Somalia,Sub-Saharan Africa,2.059819,45.326115,doubt_terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Military,Somalia,0,Explosives,0,0.0,0.0,domestic_attack
+9511,Pakistan,South Asia,29.034412,69.158661,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Private Citizens & Property,Pakistan,0,Explosives,0,0.0,1.0,internat_unkown
+2058,Philippines,Southeast Asia,6.988958,124.477051,doubt_terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Military,Philippines,0,Explosives,0,0.0,1.0,domestic_attack
+5543,Pakistan,South Asia,32.442901,69.95593,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Private Citizens & Property,Pakistan,0,Explosives,6,0.0,2.0,internat_unkown
+4954,Iraq,Middle East & North Africa,36.354145,43.14357,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Unknown,Iraq,0,Explosives,0,0.0,0.0,internat_unkown
+6317,India,South Asia,27.046316,88.271156,terr,noseries_attack,realized_attack,no_suicide,Facility/Infrastructure Attack,Police,India,0,Incendiary,0,0.0,0.0,domestic_attack
+5228,Afghanistan,South Asia,34.021194,68.999535,terr,noseries_attack,realized_attack,no_suicide,Assassination,Police,Afghanistan,0,Firearms,1,0.0,0.0,internat_unkown
+235,Egypt,Middle East & North Africa,31.116554,33.72472,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Police,Egypt,0,Firearms,1,0.0,0.0,domestic_attack
+3063,Pakistan,South Asia,26.008619,63.891228,doubt_terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Military,Pakistan,0,Firearms,1,0.0,0.0,internat_unkown
+7792,Philippines,Southeast Asia,9.139722,125.559722,terr,noseries_attack,realized_attack,no_suicide,Assassination,Private Citizens & Property,Philippines,0,Firearms,1,0.0,0.0,domestic_attack
+5465,Kenya,Sub-Saharan Africa,2.809093,40.927444,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Business,Kenya,0,Firearms,3,0.0,3.0,international_attack
+2495,Bangladesh,South Asia,24.964447,91.812332,terr,noseries_attack,realized_attack,no_suicide,Assassination,Violent Political Party,Bangladesh,0,Explosives,0,0.0,0.0,internat_unkown
+8509,Iraq,Middle East & North Africa,33.260223,42.894081,terr,within_series,no_attack,suicide_attack,Bombing/Explosion,Private Citizens & Property,Iraq,0,Explosives,6,6.0,0.0,internat_unkown
+5268,Nigeria,Sub-Saharan Africa,11.083785,12.849184,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Private Citizens & Property,Nigeria,6,Firearms,17,12.0,0.0,domestic_attack
+3194,Egypt,Middle East & North Africa,28.570698,33.974544,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Police,Egypt,0,Firearms,1,0.0,3.0,domestic_attack
+4892,Pakistan,South Asia,34.898844,71.461675,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Private Citizens & Property,Pakistan,0,Explosives,0,0.0,7.0,internat_unkown
+2614,Philippines,Southeast Asia,6.950849,124.448028,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Unknown,Philippines,0,Explosives,0,0.0,0.0,domestic_attack
+515,Egypt,Middle East & North Africa,31.212225,34.117065,doubt_terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Military,Egypt,0,Firearms,0,0.0,1.0,internat_unkown
+7446,Pakistan,South Asia,30.354935,66.944313,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Unknown,Pakistan,0,Explosives,0,0.0,0.0,internat_unkown
+5284,Philippines,Southeast Asia,7.83,125.82,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Unknown,Philippines,1,Explosives,0,0.0,0.0,domestic_attack
+1286,Iraq,Middle East & North Africa,33.303566,44.371773,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Business,Iraq,0,Explosives,0,0.0,3.0,internat_unkown
+3744,Bangladesh,South Asia,24.687497,90.597914,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Religious Figures/Institutions,Bangladesh,2,Melee,0,0.0,1.0,internat_unkown
+8188,Myanmar,Southeast Asia,20.28933,93.370452,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Transportation,Myanmar,0,Explosives,0,0.0,0.0,internat_unkown
+3309,Afghanistan,South Asia,36.70993,67.1157,doubt_terr,within_series,no_attack,suicide_attack,Bombing/Explosion,Military,Afghanistan,1,Explosives,266,10.0,64.0,domestic_attack
+440,Iraq,Middle East & North Africa,33.303566,44.371773,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Private Citizens & Property,Iraq,0,Explosives,2,0.0,5.0,internat_unkown
+4477,Iraq,Middle East & North Africa,36.354145,43.14357,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Unknown,Iraq,0,Explosives,0,0.0,0.0,internat_unkown
+5567,Nepal,South Asia,28.187493,81.456095,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Police,Nepal,0,Explosives,0,0.0,0.0,internat_unkown
+10596,Pakistan,South Asia,30.200819,66.994354,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Transportation,Pakistan,0,Explosives,0,0.0,0.0,internat_unkown
+6809,Afghanistan,South Asia,31.88482,67.856979,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Police,Afghanistan,0,Firearms,7,5.0,5.0,domestic_attack
+8620,Ukraine,Eastern Europe,49.840599,24.030289,doubt_terr,noseries_attack,realized_attack,no_suicide,Facility/Infrastructure Attack,Business,Russia,0,Incendiary,0,0.0,0.0,internat_unkown
+1256,Egypt,Middle East & North Africa,31.126646,33.800865,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Private Citizens & Property,Egypt,0,Firearms,0,0.0,1.0,internat_unkown
+6085,Cameroon,Sub-Saharan Africa,10.99087,14.231454,terr,within_series,no_attack,suicide_attack,Bombing/Explosion,Private Citizens & Property,Cameroon,0,Explosives,14,2.0,41.0,international_attack
+9602,Pakistan,South Asia,33.594013,73.069077,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Business,Turkey,0,Firearms,3,0.0,0.0,domestic_attack
+4110,Afghanistan,South Asia,34.516895,69.147011,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Police,Afghanistan,0,Explosives,0,0.0,0.0,internat_unkown
+8852,Yemen,Middle East & North Africa,13.062995,44.430099,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Government (General),Yemen,0,Firearms,0,0.0,0.0,internat_unkown
+3261,Syria,Middle East & North Africa,36.201721,37.14352,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Private Citizens & Property,Syria,0,Explosives,6,0.0,30.0,domestic_attack
+5752,Afghanistan,South Asia,33.282788,68.456807,terr,noseries_attack,realized_attack,no_suicide,Unknown,Police,Afghanistan,0,Unknown,5,4.0,4.0,domestic_attack
+3386,Somalia,Sub-Saharan Africa,2.059819,45.326115,doubt_terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Military,Somalia,0,Explosives,0,0.0,2.0,internat_unkown
+10760,Afghanistan,South Asia,31.467463,64.092445,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Police,Afghanistan,0,Explosives,6,0.0,6.0,domestic_attack
+9002,Pakistan,South Asia,30.200819,66.994354,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Police,Pakistan,0,Firearms,1,0.0,0.0,domestic_attack
+8971,Iraq,Middle East & North Africa,33.889561,42.623253,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Private Citizens & Property,Iraq,0,Explosives,0,0.0,2.0,domestic_attack
+4599,Iraq,Middle East & North Africa,33.303566,44.371773,doubt_terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Military,Iraq,0,Explosives,1,0.0,4.0,internat_unkown
+3465,Yemen,Middle East & North Africa,13.413117,43.637531,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Private Citizens & Property,Yemen,0,Explosives,1,0.0,0.0,domestic_attack
+423,Afghanistan,South Asia,35.947552,68.710327,terr,noseries_attack,realized_attack,no_suicide,Assassination,Government (General),Afghanistan,0,Firearms,1,0.0,0.0,domestic_attack
+8774,Pakistan,South Asia,35.095102,71.763205,doubt_terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Military,Pakistan,0,Explosives,1,0.0,0.0,internat_unkown
+7832,Afghanistan,South Asia,36.30524,69.526124,terr,noseries_attack,realized_attack,no_suicide,Unknown,Police,Afghanistan,0,Unknown,4,4.0,6.0,domestic_attack
+10562,Thailand,Southeast Asia,6.22563,101.206245,doubt_terr,noseries_attack,realized_attack,no_suicide,Facility/Infrastructure Attack,Tourists,Thailand,-99,Firearms,0,0.0,0.0,domestic_attack
+2878,Paraguay,South America,-23.281812,-56.441454,terr,noseries_attack,realized_attack,no_suicide,Hostage Taking (Kidnapping),Private Citizens & Property,Paraguay,0,Unknown,1,0.0,0.0,domestic_attack
+3324,Iraq,Middle East & North Africa,36.354145,43.14357,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Unknown,Iraq,0,Explosives,0,0.0,0.0,internat_unkown
+2300,Pakistan,South Asia,34.186944,71.445278,doubt_terr,noseries_attack,realized_attack,no_suicide,Unknown,Military,Pakistan,0,Unknown,6,6.0,0.0,domestic_attack
+6161,Iraq,Middle East & North Africa,33.693947,45.067425,doubt_terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Military,Iraq,0,Explosives,0,0.0,2.0,domestic_attack
+10764,Somalia,Sub-Saharan Africa,6.774396,47.429031,doubt_terr,noseries_attack,realized_attack,no_suicide,Assassination,Military,Somalia,0,Firearms,1,0.0,0.0,domestic_attack
+7163,Kenya,Sub-Saharan Africa,-1.528427,40.50934,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Police,Kenya,0,Explosives,5,0.0,1.0,international_attack
+222,Iraq,Middle East & North Africa,36.354145,43.14357,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Private Citizens & Property,Iraq,0,Explosives,11,0.0,0.0,domestic_attack
+8519,Afghanistan,South Asia,35.750054,64.866087,terr,noseries_attack,realized_attack,no_suicide,Unknown,Private Citizens & Property,Afghanistan,0,Unknown,0,0.0,0.0,domestic_attack
+9304,Pakistan,South Asia,32.222316,69.295819,doubt_terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Military,Pakistan,0,Explosives,1,0.0,1.0,domestic_attack
+2422,India,South Asia,27.60027,78.049919,terr,noseries_attack,realized_attack,no_suicide,Facility/Infrastructure Attack,Business,India,0,Incendiary,0,0.0,0.0,internat_unkown
+4600,Pakistan,South Asia,34.006004,71.53743,terr,noseries_attack,realized_attack,no_suicide,Assassination,Terrorists/Non-State Militia,Pakistan,0,Firearms,1,0.0,0.0,internat_unkown
+2667,Egypt,Middle East & North Africa,31.126646,33.800865,doubt_terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Military,Egypt,0,Firearms,1,0.0,0.0,internat_unkown
+3892,Iraq,Middle East & North Africa,36.354145,43.14357,doubt_terr,within_series,no_attack,suicide_attack,Bombing/Explosion,Military,Iraq,0,Explosives,7,7.0,0.0,domestic_attack
+5865,Iraq,Middle East & North Africa,35.499439,43.234894,terr,noseries_attack,realized_attack,no_suicide,Unknown,Private Citizens & Property,Iraq,0,Unknown,2,1.0,0.0,domestic_attack
+5176,Democratic Republic of the Congo,Sub-Saharan Africa,0.380013,29.377297,terr,noseries_attack,realized_attack,no_suicide,Unknown,Private Citizens & Property,Democratic Republic of the Congo,0,Unknown,0,0.0,0.0,domestic_attack
+4713,Pakistan,South Asia,33.671638,73.056068,terr,noseries_attack,realized_attack,no_suicide,Hostage Taking (Kidnapping),Journalists & Media,Pakistan,0,Firearms,0,0.0,1.0,internat_unkown
+4190,Philippines,Southeast Asia,8.698314,124.979063,terr,noseries_attack,realized_attack,no_suicide,Facility/Infrastructure Attack,Business,Philippines,0,Incendiary,0,0.0,0.0,domestic_attack
+9608,Iraq,Middle East & North Africa,35.108004,43.34216,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Unknown,Iraq,0,Explosives,0,0.0,0.0,internat_unkown
+8428,Iraq,Middle East & North Africa,35.324825,43.766922,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Unknown,Iraq,0,Explosives,0,0.0,0.0,internat_unkown
+9552,India,South Asia,33.732216,75.157913,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Police,India,0,Firearms,0,0.0,1.0,internat_unkown
+5797,Iraq,Middle East & North Africa,33.303566,44.371773,terr,noseries_attack,realized_attack,no_suicide,Hostage Taking (Kidnapping),Private Citizens & Property,Iraq,0,Melee,1,0.0,0.0,internat_unkown
+6170,Egypt,Middle East & North Africa,27.205332,33.803768,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Tourists,Armenia,1,Melee,1,0.0,3.0,domestic_attack
+10141,India,South Asia,26.843568,80.061886,terr,noseries_attack,realized_attack,no_suicide,Assassination,Journalists & Media,India,0,Firearms,1,0.0,0.0,internat_unkown
+7517,Pakistan,South Asia,29.229304,67.666223,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Police,Pakistan,0,Firearms,0,0.0,0.0,internat_unkown
+1874,Pakistan,South Asia,33.528893,71.056122,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Private Citizens & Property,Pakistan,0,Explosives,0,0.0,1.0,internat_unkown
+3774,Afghanistan,South Asia,35.018158,69.168991,terr,noseries_attack,realized_attack,no_suicide,Assassination,Government (General),Afghanistan,1,Explosives,1,0.0,6.0,domestic_attack
+93,Iraq,Middle East & North Africa,36.354145,43.14357,terr,within_series,no_attack,suicide_attack,Bombing/Explosion,Private Citizens & Property,Iraq,0,Explosives,6,1.0,14.0,domestic_attack
+153,Pakistan,South Asia,28.923449,69.001649,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Unknown,Pakistan,0,Explosives,0,0.0,0.0,internat_unkown
+7969,United Kingdom,Western Europe,54.864522,-5.837659,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Private Citizens & Property,Northern Ireland,1,Firearms,0,0.0,0.0,domestic_attack
+3956,Syria,Middle East & North Africa,35.263863,37.413395,doubt_terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Military,Syria,0,Firearms,2,2.0,0.0,domestic_attack
+8575,Iraq,Middle East & North Africa,33.420948,43.295662,terr,within_series,no_attack,suicide_attack,Bombing/Explosion,Unknown,Iraq,0,Explosives,10,10.0,0.0,domestic_attack
+2032,India,South Asia,26.428871,80.309276,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Educational Institution,India,0,Explosives,0,0.0,2.0,internat_unkown
+9374,Pakistan,South Asia,33.897995,70.107536,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Educational Institution,Pakistan,0,Explosives,0,0.0,0.0,internat_unkown
+2001,Iraq,Middle East & North Africa,34.834415,43.515133,terr,within_series,no_attack,suicide_attack,Bombing/Explosion,Private Citizens & Property,Iraq,0,Explosives,10,2.0,8.0,domestic_attack
+5910,Saudi Arabia,Middle East & North Africa,26.587351,49.984146,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Police,Saudi Arabia,0,Explosives,1,0.0,6.0,internat_unkown
+8503,India,South Asia,18.184536,81.411415,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Unknown,India,0,Explosives,0,0.0,0.0,internat_unkown
+9661,Philippines,Southeast Asia,9.343975,122.923919,doubt_terr,noseries_attack,realized_attack,no_suicide,Hostage Taking (Kidnapping),Military,Philippines,0,Firearms,1,0.0,0.0,domestic_attack
+9519,Iraq,Middle East & North Africa,34.271034,45.163567,terr,noseries_attack,realized_attack,no_suicide,Hostage Taking (Kidnapping),Private Citizens & Property,Iraq,0,Unknown,0,0.0,0.0,domestic_attack
+3481,Iraq,Middle East & North Africa,34.437773,43.800411,terr,noseries_attack,realized_attack,no_suicide,Hostage Taking (Kidnapping),Police,Iraq,0,Unknown,3,0.0,0.0,internat_unkown
+3628,Thailand,Southeast Asia,6.548956,101.638533,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Unknown,Thailand,0,Explosives,0,0.0,0.0,internat_unkown
+4550,Iraq,Middle East & North Africa,33.869196,44.630421,doubt_terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Military,Iraq,0,Explosives,6,0.0,6.0,internat_unkown
+2594,Libya,Middle East & North Africa,32.867867,13.189067,terr,noseries_attack,realized_attack,no_suicide,Hostage Taking (Kidnapping),Business,Libya,0,Firearms,1,0.0,3.0,internat_unkown
+7196,Iraq,Middle East & North Africa,33.744999,45.545616,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Private Citizens & Property,Iraq,0,Explosives,1,0.0,1.0,domestic_attack
+2930,Iraq,Middle East & North Africa,33.303566,44.371773,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Private Citizens & Property,Iraq,0,Explosives,1,0.0,3.0,internat_unkown
+1844,Mali,Sub-Saharan Africa,16.263981,-0.027987,terr,noseries_attack,realized_attack,no_suicide,Facility/Infrastructure Attack,Government (General),Mali,0,Firearms,0,0.0,0.0,domestic_attack
+8960,Sudan,Sub-Saharan Africa,9.537164,28.478553,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Business,Sudan,0,Firearms,1,0.0,2.0,internat_unkown
+2860,Iraq,Middle East & North Africa,35.574122,42.728694,doubt_terr,within_series,no_attack,suicide_attack,Bombing/Explosion,Military,Iraq,0,Explosives,30,30.0,0.0,domestic_attack
+1619,Thailand,Southeast Asia,6.247924,102.003296,terr,noseries_attack,realized_attack,no_suicide,Hostage Taking (Barricade Incident),Government (General),Thailand,0,Firearms,0,0.0,0.0,internat_unkown
+7180,Iraq,Middle East & North Africa,36.354145,43.14357,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Unknown,Iraq,0,Explosives,0,0.0,0.0,internat_unkown
+5179,Iraq,Middle East & North Africa,34.208416,43.890713,terr,within_series,no_attack,suicide_attack,Bombing/Explosion,Unknown,Iraq,0,Explosives,5,5.0,0.0,domestic_attack
+4577,Afghanistan,South Asia,31.662216,64.260976,doubt_terr,noseries_attack,realized_attack,no_suicide,Unknown,Military,Afghanistan,0,Unknown,30,28.0,17.0,domestic_attack
+8902,India,South Asia,25.749576,85.24249,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Violent Political Party,India,0,Firearms,0,0.0,1.0,internat_unkown
+9329,Cameroon,Sub-Saharan Africa,11.120469,13.874139,terr,within_series,no_attack,suicide_attack,Bombing/Explosion,Private Citizens & Property,Cameroon,0,Explosives,6,1.0,2.0,internat_unkown
+3865,Kenya,Sub-Saharan Africa,2.807002,40.92839,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Business,Kenya,0,Firearms,4,0.0,0.0,international_attack
+1154,Nigeria,Sub-Saharan Africa,7.586111,6.266667,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Police,Nigeria,0,Firearms,3,0.0,0.0,internat_unkown
+7736,West Bank and Gaza Strip,Middle East & North Africa,31.975836,35.038299,doubt_terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Military,Israel,0,Firearms,0,0.0,0.0,internat_unkown
+9343,Afghanistan,South Asia,30.81984,64.177316,terr,noseries_attack,realized_attack,no_suicide,Hostage Taking (Kidnapping),Private Citizens & Property,Afghanistan,0,Firearms,1,0.0,0.0,domestic_attack
+1574,Iraq,Middle East & North Africa,33.185299,44.26778,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Private Citizens & Property,Iraq,0,Explosives,1,0.0,4.0,internat_unkown
+533,Pakistan,South Asia,28.633307,69.190369,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Private Citizens & Property,Pakistan,0,Explosives,0,0.0,5.0,internat_unkown
+5156,Colombia,South America,6.52931,-71.78602,doubt_terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Military,Colombia,0,Explosives,1,0.0,3.0,domestic_attack
+7696,Turkey,Middle East & North Africa,39.296617,39.430111,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Unknown,Turkey,0,Explosives,0,0.0,0.0,internat_unkown
+7145,India,South Asia,34.086149,74.515567,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Police,India,0,Explosives,1,0.0,3.0,international_attack
+1468,Iraq,Middle East & North Africa,33.31065,44.038208,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Private Citizens & Property,Iraq,0,Explosives,1,0.0,4.0,domestic_attack
+7712,Somalia,Sub-Saharan Africa,2.14383,45.118061,terr,noseries_attack,realized_attack,no_suicide,Assassination,Private Citizens & Property,Somalia,0,Firearms,1,0.0,0.0,internat_unkown
+9614,Libya,Middle East & North Africa,31.068958,16.316759,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Private Citizens & Property,Libya,8,Firearms,0,0.0,0.0,internat_unkown
+5513,Iraq,Middle East & North Africa,34.931628,43.177462,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Private Citizens & Property,Iraq,0,Explosives,2,0.0,9.0,domestic_attack
+9404,India,South Asia,33.824264,74.853135,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Police,India,0,Firearms,1,0.0,1.0,international_attack
+3523,Saudi Arabia,Middle East & North Africa,26.489327,50.00923,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Police,Saudi Arabia,0,Firearms,1,0.0,1.0,internat_unkown
+3646,Colombia,South America,1.212668,-71.965651,terr,noseries_attack,realized_attack,no_suicide,Hostage Taking (Kidnapping),Government (Diplomatic),International,0,Unknown,0,0.0,0.0,domestic_attack
+8574,India,South Asia,20.098476,81.15959,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Unknown,India,0,Explosives,0,0.0,0.0,internat_unkown
+6855,Sudan,Sub-Saharan Africa,11.423953,24.96154,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Private Citizens & Property,Sudan,0,Firearms,0,0.0,3.0,internat_unkown
+309,Libya,Middle East & North Africa,32.867867,13.189067,terr,noseries_attack,realized_attack,no_suicide,Unknown,Government (General),Libya,0,Unknown,0,0.0,0.0,internat_unkown
+9429,Iraq,Middle East & North Africa,33.669689,44.381317,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Private Citizens & Property,Iraq,0,Explosives,2,0.0,7.0,internat_unkown
+7818,India,South Asia,33.786123,74.838243,terr,noseries_attack,realized_attack,no_suicide,Facility/Infrastructure Attack,Police,India,0,Firearms,0,0.0,1.0,internat_unkown
+1086,Egypt,Middle East & North Africa,31.085764,33.801481,doubt_terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Military,Egypt,0,Firearms,0,0.0,1.0,domestic_attack
+9856,Nigeria,Sub-Saharan Africa,10.263544,13.264107,terr,within_series,no_attack,suicide_attack,Bombing/Explosion,Religious Figures/Institutions,Nigeria,0,Explosives,59,1.0,40.0,domestic_attack
+7871,Nigeria,Sub-Saharan Africa,11.752206,13.122781,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Private Citizens & Property,Nigeria,0,Firearms,0,0.0,0.0,domestic_attack
+7339,Philippines,Southeast Asia,9.099348,125.667894,doubt_terr,noseries_attack,realized_attack,no_suicide,Hostage Taking (Kidnapping),Military,Philippines,0,Firearms,0,0.0,0.0,domestic_attack
+4454,India,South Asia,23.808075,85.763511,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Transportation,India,0,Explosives,0,0.0,0.0,domestic_attack
+10450,Iraq,Middle East & North Africa,34.881348,44.62513,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Private Citizens & Property,Iraq,0,Explosives,2,0.0,20.0,domestic_attack
+971,Iraq,Middle East & North Africa,33.426758,44.228073,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Unknown,Iraq,0,Explosives,0,0.0,0.0,internat_unkown
+7866,Afghanistan,South Asia,35.856754,64.549742,terr,noseries_attack,realized_attack,no_suicide,Unknown,Military,Afghanistan,0,Unknown,6,6.0,5.0,domestic_attack
+8632,Iraq,Middle East & North Africa,33.303566,44.371773,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Terrorists/Non-State Militia,Iraq,0,Explosives,1,0.0,0.0,internat_unkown
+6990,Kenya,Sub-Saharan Africa,-2.237966,40.465326,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Unknown,Kenya,0,Explosives,0,0.0,0.0,internat_unkown
+3147,India,South Asia,34.297985,74.615303,terr,noseries_attack,realized_attack,no_suicide,Assassination,Terrorists/Non-State Militia,India,0,Firearms,1,0.0,0.0,internat_unkown
+790,Afghanistan,South Asia,34.263149,70.78821,doubt_terr,noseries_attack,realized_attack,no_suicide,Unknown,Military,Afghanistan,0,Unknown,1,1.0,0.0,domestic_attack
+10759,Iraq,Middle East & North Africa,35.198963,43.793133,doubt_terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Military,Iraq,0,Explosives,2,0.0,1.0,domestic_attack
+7641,Iraq,Middle East & North Africa,33.303566,44.371773,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Private Citizens & Property,Iraq,0,Explosives,0,0.0,1.0,internat_unkown
+3791,Nigeria,Sub-Saharan Africa,5.789574,6.104916,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Police,Nigeria,0,Firearms,4,0.0,0.0,internat_unkown
+998,Iraq,Middle East & North Africa,33.303566,44.371773,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Business,Iraq,0,Explosives,1,0.0,4.0,internat_unkown
+6476,Afghanistan,South Asia,33.51,64.42,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Government (General),Afghanistan,0,Firearms,8,0.0,0.0,domestic_attack
+1108,Iraq,Middle East & North Africa,35.406588,44.677203,terr,noseries_attack,realized_attack,no_suicide,Assassination,Police,Iraq,0,Firearms,1,0.0,0.0,internat_unkown
+8570,Philippines,Southeast Asia,7.473527,122.845682,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Private Citizens & Property,Philippines,0,Explosives,0,0.0,3.0,internat_unkown
+9546,Venezuela,South America,8.196566,-62.564172,terr,noseries_attack,realized_attack,no_suicide,Facility/Infrastructure Attack,Utilities,Venezuela,0,Sabotage Equipment,0,0.0,0.0,internat_unkown
+3046,Afghanistan,South Asia,31.919722,67.156111,doubt_terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Military,Afghanistan,0,Explosives,2,0.0,2.0,domestic_attack
+9153,Iraq,Middle East & North Africa,33.07835,44.254719,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Private Citizens & Property,Iraq,0,Explosives,1,0.0,7.0,internat_unkown
+9213,France,Western Europe,45.214047,5.79478,terr,noseries_attack,realized_attack,no_suicide,Facility/Infrastructure Attack,Police,France,0,Incendiary,0,0.0,0.0,internat_unkown
+5442,Iraq,Middle East & North Africa,33.303566,44.371773,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Private Citizens & Property,Iraq,1,Explosives,2,0.0,4.0,internat_unkown
+5635,Iraq,Middle East & North Africa,33.889561,42.623253,terr,within_series,no_attack,suicide_attack,Bombing/Explosion,Private Citizens & Property,Iraq,0,Explosives,2,2.0,0.0,domestic_attack
+8878,Ukraine,Eastern Europe,47.942608,37.505135,doubt_terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Military,Ukraine,0,Firearms,0,0.0,1.0,internat_unkown
+6504,Iraq,Middle East & North Africa,33.633896,42.832081,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Unknown,Iraq,0,Explosives,1,0.0,0.0,domestic_attack
+4108,Burundi,Sub-Saharan Africa,-3.375828,29.364107,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Violent Political Party,Burundi,-99,Explosives,3,0.0,3.0,internat_unkown
+164,Iraq,Middle East & North Africa,34.458889,43.791004,doubt_terr,within_series,no_attack,suicide_attack,Bombing/Explosion,Military,Iraq,0,Explosives,6,2.0,0.0,domestic_attack
+2034,Nepal,South Asia,26.617262,86.701389,terr,noseries_attack,realized_attack,no_suicide,Facility/Infrastructure Attack,Government (General),Nepal,0,Incendiary,0,0.0,0.0,domestic_attack
+6616,Pakistan,South Asia,32.286612,72.430253,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Police,Pakistan,0,Firearms,0,0.0,2.0,internat_unkown
+8388,Democratic Republic of the Congo,Sub-Saharan Africa,-3.372898,29.145108,doubt_terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Military,Democratic Republic of the Congo,0,Firearms,0,0.0,0.0,domestic_attack
+968,Iraq,Middle East & North Africa,33.426758,44.228073,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Unknown,Iraq,0,Explosives,0,0.0,0.0,internat_unkown
+3647,Libya,Middle East & North Africa,32.069286,20.151144,doubt_terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Military,Libya,0,Explosives,4,0.0,0.0,internat_unkown
+676,Philippines,Southeast Asia,6.881951,124.48393,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Police,Philippines,0,Explosives,0,0.0,0.0,domestic_attack
+7236,Afghanistan,South Asia,32.43483,69.001649,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Military,Afghanistan,0,Firearms,43,40.0,4.0,domestic_attack
+5922,Iraq,Middle East & North Africa,33.375759,44.702866,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Business,Iraq,0,Explosives,0,0.0,3.0,internat_unkown
+474,Yemen,Middle East & North Africa,13.413117,43.637531,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Private Citizens & Property,Yemen,0,Explosives,6,0.0,14.0,domestic_attack
+7246,Burundi,Sub-Saharan Africa,-3.375828,29.364107,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Business,Burundi,0,Explosives,2,0.0,13.0,internat_unkown
+9920,Iraq,Middle East & North Africa,36.158558,43.2551,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Private Citizens & Property,International,0,Explosives,0,0.0,3.0,domestic_attack
+3188,Somalia,Sub-Saharan Africa,2.059819,45.326115,doubt_terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Military,Somalia,0,Explosives,0,0.0,0.0,internat_unkown
+8814,Albania,Eastern Europe,42.069084,19.503374,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Government (General),Albania,0,Explosives,0,0.0,0.0,internat_unkown
+9265,Bangladesh,South Asia,23.791275,90.418205,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Unknown,Bangladesh,0,Explosives,0,0.0,0.0,internat_unkown
+1226,India,South Asia,24.602707,86.221308,terr,noseries_attack,realized_attack,no_suicide,Assassination,Government (General),India,0,Firearms,2,0.0,2.0,domestic_attack
+6136,India,South Asia,26.704306,88.412507,terr,noseries_attack,realized_attack,no_suicide,Facility/Infrastructure Attack,Government (General),India,0,Incendiary,0,0.0,0.0,domestic_attack
+6252,Iraq,Middle East & North Africa,33.303566,44.371773,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Private Citizens & Property,Iraq,0,Explosives,2,0.0,3.0,internat_unkown
+5324,Germany,Western Europe,53.082721,8.815232,terr,noseries_attack,realized_attack,no_suicide,Facility/Infrastructure Attack,Transportation,Germany,0,Incendiary,0,0.0,0.0,internat_unkown
+6137,India,South Asia,26.730006,88.412052,terr,noseries_attack,realized_attack,no_suicide,Facility/Infrastructure Attack,Government (General),India,0,Incendiary,0,0.0,0.0,domestic_attack
+4845,Afghanistan,South Asia,34.516895,69.147011,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Government (Diplomatic),India,0,Explosives,0,0.0,0.0,domestic_attack
+5190,West Bank and Gaza Strip,Middle East & North Africa,31.784838,35.224613,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Police,Israel,0,Melee,2,1.0,0.0,domestic_attack
+7332,Sudan,Sub-Saharan Africa,13.718007,24.027232,terr,noseries_attack,realized_attack,no_suicide,Hostage Taking (Barricade Incident),Private Citizens & Property,South Sudan,0,Firearms,0,0.0,1.0,internat_unkown
+3134,Iran,Middle East & North Africa,27.529991,60.582068,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Educational Institution,Iran,0,Firearms,1,0.0,2.0,international_attack
+510,Colombia,South America,4.667128,-74.106056,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Government (General),Colombia,0,Explosives,0,0.0,9.0,domestic_attack
+10365,Afghanistan,South Asia,31.630932,64.258698,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Police,Afghanistan,0,Firearms,0,0.0,5.0,domestic_attack
+426,Turkey,Middle East & North Africa,37.922218,40.184376,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Police,Turkey,0,Explosives,5,0.0,1.0,domestic_attack
+9647,Libya,Middle East & North Africa,31.05238,16.661961,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Private Citizens & Property,Libya,0,Firearms,0,0.0,0.0,domestic_attack
+8334,Turkey,Middle East & North Africa,39.547222,44.083333,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Transportation,Afghanistan,0,Firearms,3,0.0,7.0,domestic_attack
+10,Somalia,Sub-Saharan Africa,3.798013,42.544463,doubt_terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Military,Somalia,0,Firearms,3,0.0,0.0,domestic_attack
+602,Iraq,Middle East & North Africa,33.540672,44.251266,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Private Citizens & Property,Iraq,0,Explosives,1,0.0,4.0,internat_unkown
+5736,Iraq,Middle East & North Africa,36.354145,43.14357,terr,within_series,no_attack,suicide_attack,Bombing/Explosion,Unknown,Iraq,0,Explosives,4,4.0,0.0,domestic_attack
+4720,India,South Asia,33.558945,75.208671,doubt_terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Military,India,0,Firearms,2,0.0,4.0,international_attack
+10019,Iraq,Middle East & North Africa,33.303566,44.371773,doubt_terr,noseries_attack,realized_attack,no_suicide,Assassination,Military,Iraq,0,Firearms,1,0.0,0.0,internat_unkown
+6003,Thailand,Southeast Asia,6.681389,101.419444,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Private Citizens & Property,Thailand,0,Firearms,0,0.0,2.0,internat_unkown
+8675,Iraq,Middle East & North Africa,33.420948,43.295662,doubt_terr,within_series,no_attack,suicide_attack,Bombing/Explosion,Military,Iraq,0,Explosives,1,1.0,0.0,domestic_attack
+10410,Philippines,Southeast Asia,9.69423,125.504891,terr,noseries_attack,realized_attack,no_suicide,Unknown,Police,Philippines,0,Unknown,0,0.0,0.0,domestic_attack
+9143,Nigeria,Sub-Saharan Africa,7.353332,6.110294,terr,noseries_attack,realized_attack,no_suicide,Hostage Taking (Kidnapping),Police,Nigeria,0,Firearms,0,0.0,0.0,internat_unkown
+4537,Pakistan,South Asia,25.0529,66.912911,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Unknown,Pakistan,0,Explosives,0,0.0,0.0,internat_unkown
+2170,Libya,Middle East & North Africa,32.867867,13.189067,terr,noseries_attack,realized_attack,no_suicide,Facility/Infrastructure Attack,Journalists & Media,Libya,0,Firearms,0,0.0,0.0,internat_unkown
+906,Iraq,Middle East & North Africa,33.302447,44.048733,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Government (General),Iraq,0,Explosives,1,0.0,0.0,internat_unkown
+2390,Central African Republic,Sub-Saharan Africa,5.921246,20.850245,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Private Citizens & Property,Central African Republic,0,Firearms,17,0.0,8.0,domestic_attack
+7269,Kenya,Sub-Saharan Africa,-1.02326,36.83108,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Police,Kenya,0,Firearms,2,0.0,0.0,internat_unkown
+7096,Iraq,Middle East & North Africa,35.139015,44.400004,doubt_terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Military,Iraq,0,Firearms,0,0.0,1.0,domestic_attack
+7205,Afghanistan,South Asia,30.986801,65.467416,terr,noseries_attack,realized_attack,no_suicide,Unknown,Police,Afghanistan,0,Unknown,13,10.0,4.0,domestic_attack
+8673,Somalia,Sub-Saharan Africa,2.059819,45.326115,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Government (General),Somalia,0,Firearms,1,0.0,0.0,internat_unkown
+3428,Afghanistan,South Asia,34.434884,70.647555,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Educational Institution,Afghanistan,0,Firearms,1,0.0,0.0,internat_unkown
+3500,United States,North America,38.283344,-122.03495,doubt_terr,noseries_attack,realized_attack,no_suicide,Facility/Infrastructure Attack,Private Citizens & Property,United States,1,Incendiary,0,0.0,0.0,internat_unkown
+8356,Nigeria,Sub-Saharan Africa,12.041981,13.917299,terr,within_series,no_attack,suicide_attack,Bombing/Explosion,Religious Figures/Institutions,Nigeria,0,Explosives,6,1.0,3.0,domestic_attack
+4319,Philippines,Southeast Asia,6.632264,124.597814,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Private Citizens & Property,Philippines,0,Explosives,0,0.0,0.0,internat_unkown
+2298,India,South Asia,24.490518,83.936317,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Educational Institution,India,0,Explosives,0,0.0,0.0,domestic_attack
+3034,Nigeria,Sub-Saharan Africa,7.178223,9.459915,terr,noseries_attack,realized_attack,no_suicide,Facility/Infrastructure Attack,Private Citizens & Property,Nigeria,0,Incendiary,0,0.0,0.0,internat_unkown
+9867,Afghanistan,South Asia,34.263149,70.78821,doubt_terr,noseries_attack,realized_attack,no_suicide,Unknown,Military,Afghanistan,0,Unknown,1,0.0,3.0,internat_unkown
+9765,Nigeria,Sub-Saharan Africa,6.11916,6.792799,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Unknown,Nigeria,0,Explosives,0,0.0,0.0,internat_unkown
+3726,India,South Asia,33.145733,75.547817,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Police,India,7,Firearms,1,0.0,1.0,international_attack
+2540,Pakistan,South Asia,25.999413,63.047451,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Government (General),Pakistan,0,Explosives,0,0.0,0.0,internat_unkown
+5794,India,South Asia,33.732216,75.157913,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Police,India,0,Firearms,0,0.0,2.0,international_attack
+3072,Somalia,Sub-Saharan Africa,2.059819,45.326115,terr,noseries_attack,realized_attack,no_suicide,Assassination,Government (General),Somalia,0,Firearms,1,0.0,0.0,domestic_attack
+3253,Afghanistan,South Asia,31.908191,67.158049,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Police,Afghanistan,0,Firearms,0,0.0,0.0,domestic_attack
+5677,Pakistan,South Asia,30.200819,66.994354,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Unknown,Pakistan,0,Explosives,0,0.0,0.0,internat_unkown
+10004,India,South Asia,19.496653,80.276765,doubt_terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Police,India,0,Explosives,1,0.0,2.0,internat_unkown
+4283,Somalia,Sub-Saharan Africa,2.777264,45.500641,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Police,Somalia,0,Explosives,0,0.0,0.0,domestic_attack
+9252,Somalia,Sub-Saharan Africa,-0.074476,42.572021,doubt_terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Military,Somalia,0,Explosives,5,0.0,3.0,domestic_attack
+10230,Philippines,Southeast Asia,13.985557,121.328429,terr,noseries_attack,realized_attack,no_suicide,Assassination,Government (General),Philippines,0,Firearms,1,0.0,0.0,internat_unkown
+1973,Iraq,Middle East & North Africa,33.470512,44.393494,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Business,Iraq,0,Explosives,0,0.0,3.0,internat_unkown
+6516,Iraq,Middle East & North Africa,36.770327,42.18819,terr,noseries_attack,realized_attack,no_suicide,Unknown,Private Citizens & Property,Iraq,0,Unknown,4,4.0,0.0,domestic_attack
+5102,Iraq,Middle East & North Africa,36.354145,43.14357,terr,noseries_attack,realized_attack,no_suicide,Unknown,Police,Iraq,0,Unknown,0,0.0,0.0,domestic_attack
+2075,India,South Asia,33.834669,74.931069,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Police,India,0,Explosives,0,0.0,0.0,internat_unkown
+6771,Afghanistan,South Asia,31.470081,64.291832,terr,noseries_attack,realized_attack,no_suicide,Unknown,Police,Afghanistan,0,Unknown,6,0.0,3.0,domestic_attack
+9695,Afghanistan,South Asia,37.016636,69.366636,terr,noseries_attack,realized_attack,no_suicide,Assassination,Police,Afghanistan,0,Firearms,1,0.0,1.0,domestic_attack
+1638,Azerbaijan,Central Asia,39.664728,46.951067,doubt_terr,noseries_attack,realized_attack,no_suicide,Unknown,Military,Azerbaijan,0,Unknown,5,0.0,0.0,internat_unkown
+4907,Turkey,Middle East & North Africa,37.293709,43.671189,doubt_terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Military,Turkey,5,Explosives,0,0.0,0.0,domestic_attack
+10607,Pakistan,South Asia,30.200819,66.994354,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Unknown,Pakistan,0,Explosives,0,0.0,0.0,internat_unkown
+1027,Yemen,Middle East & North Africa,13.879274,45.869519,doubt_terr,noseries_attack,realized_attack,no_suicide,Assassination,Military,Yemen,0,Firearms,1,0.0,0.0,domestic_attack
+5859,Colombia,South America,7.905315,-72.936204,terr,noseries_attack,realized_attack,no_suicide,Hijacking,Private Citizens & Property,Colombia,0,Firearms,0,0.0,0.0,domestic_attack
+4114,Philippines,Southeast Asia,14.15551,121.566027,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Police,Philippines,0,Firearms,0,0.0,2.0,domestic_attack
+6509,Israel,Middle East & North Africa,32.089161,34.88382,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Private Citizens & Property,Israel,1,Melee,0,0.0,1.0,international_attack
+3187,Syria,Middle East & North Africa,35.012791,37.051506,doubt_terr,noseries_attack,realized_attack,no_suicide,Unknown,Military,Syria,0,Unknown,0,0.0,0.0,domestic_attack
+7845,Nigeria,Sub-Saharan Africa,11.87463,13.282379,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Private Citizens & Property,Nigeria,0,Firearms,3,0.0,0.0,domestic_attack
+4877,Iraq,Middle East & North Africa,34.010471,44.148235,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Private Citizens & Property,Iraq,0,Firearms,1,0.0,2.0,domestic_attack
+785,Philippines,Southeast Asia,14.192103,120.59982,terr,noseries_attack,realized_attack,no_suicide,Facility/Infrastructure Attack,Business,Philippines,0,Firearms,0,0.0,0.0,domestic_attack
+10670,Afghanistan,South Asia,31.621808,65.053717,terr,within_series,no_attack,suicide_attack,Bombing/Explosion,Police,Afghanistan,0,Explosives,7,1.0,5.0,domestic_attack
+9218,Iraq,Middle East & North Africa,33.133062,44.477076,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Business,Iraq,0,Explosives,0,0.0,3.0,internat_unkown
+9544,Pakistan,South Asia,33.924556,70.549814,doubt_terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Military,Pakistan,0,Firearms,6,5.0,4.0,internat_unkown
+5685,Nigeria,Sub-Saharan Africa,10.850635,12.21642,doubt_terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Military,Nigeria,0,Explosives,4,0.0,3.0,domestic_attack
+578,Egypt,Middle East & North Africa,31.126646,33.800865,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Police,Egypt,0,Firearms,0,0.0,0.0,internat_unkown
+3866,Nepal,South Asia,27.87915,83.91983,terr,noseries_attack,realized_attack,no_suicide,Assassination,Violent Political Party,Nepal,0,Explosives,0,0.0,0.0,domestic_attack
+1751,Somalia,Sub-Saharan Africa,2.059819,45.326115,doubt_terr,noseries_attack,realized_attack,no_suicide,Assassination,Military,Somalia,0,Firearms,0,0.0,0.0,domestic_attack
+6563,Iraq,Middle East & North Africa,33.303566,44.371773,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Private Citizens & Property,Iraq,0,Explosives,1,0.0,3.0,internat_unkown
+852,Afghanistan,South Asia,36.436667,70.791111,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Private Citizens & Property,Afghanistan,0,Firearms,1,0.0,0.0,domestic_attack
+7623,Afghanistan,South Asia,32.61797,65.872375,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Police,Afghanistan,0,Explosives,0,0.0,8.0,internat_unkown
+2881,Thailand,Southeast Asia,6.801624,101.151928,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Educational Institution,Thailand,0,Explosives,0,0.0,0.0,domestic_attack
+9774,Philippines,Southeast Asia,13.067108,123.695149,doubt_terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Military,Philippines,0,Firearms,1,0.0,0.0,domestic_attack
+7412,Syria,Middle East & North Africa,36.528557,37.954094,doubt_terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Military,United States,0,Firearms,0,0.0,0.0,domestic_attack
+10437,India,South Asia,27.642451,95.784484,terr,noseries_attack,realized_attack,no_suicide,Assassination,Private Citizens & Property,India,0,Firearms,2,0.0,0.0,domestic_attack
+5551,India,South Asia,25.150352,93.972056,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Private Citizens & Property,India,0,Firearms,0,0.0,0.0,internat_unkown
+9667,Cameroon,Sub-Saharan Africa,5.955967,10.151583,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Unknown,Cameroon,0,Explosives,0,0.0,0.0,domestic_attack
+10559,India,South Asia,25.526979,91.287778,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Private Citizens & Property,India,0,Firearms,1,0.0,0.0,domestic_attack
+7643,Somalia,Sub-Saharan Africa,7.014366,47.380496,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Private Citizens & Property,Somalia,0,Explosives,3,0.0,0.0,internat_unkown
+4479,Iraq,Middle East & North Africa,33.303566,44.371773,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Unknown,Iraq,0,Explosives,0,0.0,0.0,internat_unkown
+4338,Afghanistan,South Asia,32.120754,65.919966,doubt_terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Military,Afghanistan,0,Firearms,22,12.0,9.0,domestic_attack
+6135,India,South Asia,26.894509,88.182847,terr,noseries_attack,realized_attack,no_suicide,Facility/Infrastructure Attack,Police,India,0,Incendiary,0,0.0,0.0,domestic_attack
+1672,Iraq,Middle East & North Africa,36.354145,43.14357,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Private Citizens & Property,Iraq,0,Explosives,1,0.0,4.0,domestic_attack
+3884,Ukraine,Eastern Europe,48.523117,34.613683,terr,noseries_attack,realized_attack,no_suicide,Facility/Infrastructure Attack,Private Citizens & Property,Ukraine,0,Incendiary,0,0.0,0.0,internat_unkown
+5588,Philippines,Southeast Asia,18.03649,121.84163,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Police,Philippines,0,Firearms,0,0.0,0.0,domestic_attack
+10617,Pakistan,South Asia,30.200819,66.994354,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Unknown,Pakistan,0,Explosives,0,0.0,0.0,internat_unkown
+3029,Afghanistan,South Asia,36.209722,65.363333,doubt_terr,noseries_attack,realized_attack,no_suicide,Unknown,Military,Afghanistan,0,Unknown,1,1.0,0.0,domestic_attack
+5631,Iraq,Middle East & North Africa,33.420948,43.295662,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Business,Iraq,0,Explosives,0,0.0,7.0,internat_unkown
+6624,Ivory Coast,Sub-Saharan Africa,5.106041,-5.585363,terr,noseries_attack,realized_attack,no_suicide,Facility/Infrastructure Attack,Government (General),Ivory Coast,0,Firearms,0,0.0,0.0,international_attack
+3994,India,South Asia,23.939938,86.271475,terr,noseries_attack,realized_attack,no_suicide,Assassination,Government (General),India,0,Incendiary,1,0.0,0.0,domestic_attack
+1735,Thailand,Southeast Asia,6.790689,100.918146,doubt_terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Military,Thailand,0,Explosives,0,0.0,0.0,domestic_attack
+5466,Iraq,Middle East & North Africa,36.354145,43.14357,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Unknown,Iraq,0,Explosives,0,0.0,0.0,domestic_attack
+10111,Nigeria,Sub-Saharan Africa,10.780461,13.451954,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Private Citizens & Property,Nigeria,0,Firearms,2,0.0,1.0,domestic_attack
+10035,Egypt,Middle East & North Africa,31.126646,33.800865,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Police,Egypt,0,Firearms,1,1.0,1.0,internat_unkown
+6776,Yemen,Middle East & North Africa,14.0375,47.8381,doubt_terr,within_series,no_attack,suicide_attack,Hostage Taking (Kidnapping),Military,Yemen,0,Explosives,6,1.0,8.0,domestic_attack
+700,India,South Asia,26.819337,94.782104,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Business,India,0,Explosives,0,0.0,0.0,domestic_attack
+10145,Somalia,Sub-Saharan Africa,11.274796,49.179657,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Military,Somalia,0,Explosives,0,0.0,6.0,domestic_attack
+4872,Pakistan,South Asia,26.038919,63.372955,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Unknown,Pakistan,0,Explosives,0,0.0,0.0,internat_unkown
+2090,Democratic Republic of the Congo,Sub-Saharan Africa,-1.658501,29.220455,terr,noseries_attack,realized_attack,no_suicide,Unknown,Private Citizens & Property,Democratic Republic of the Congo,0,Unknown,20,18.0,7.0,domestic_attack
+5208,Afghanistan,South Asia,35.98249,65.411404,terr,noseries_attack,realized_attack,no_suicide,Unknown,Private Citizens & Property,Afghanistan,0,Unknown,5,5.0,10.0,domestic_attack
+2430,Iraq,Middle East & North Africa,36.354145,43.14357,terr,noseries_attack,realized_attack,no_suicide,Hostage Taking (Barricade Incident),Private Citizens & Property,Iraq,0,Explosives,230,0.0,0.0,domestic_attack
+2178,Ireland,Western Europe,53.341275,-6.945159,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Private Citizens & Property,Ireland,0,Explosives,0,0.0,0.0,internat_unkown
+551,Turkey,Middle East & North Africa,41.106178,28.689863,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Private Citizens & Property,Turkey,1,Explosives,0,0.0,0.0,domestic_attack
+6822,Iraq,Middle East & North Africa,33.100529,44.584492,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Private Citizens & Property,Iraq,0,Explosives,1,0.0,4.0,internat_unkown
+5834,Iraq,Middle East & North Africa,33.542351,44.365334,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Private Citizens & Property,Iraq,0,Explosives,0,0.0,1.0,internat_unkown
+9841,Nepal,South Asia,27.178284,84.72235,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Violent Political Party,Nepal,0,Explosives,0,0.0,0.0,internat_unkown
+6964,Iraq,Middle East & North Africa,33.185299,44.26778,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Private Citizens & Property,Iraq,0,Explosives,0,0.0,2.0,internat_unkown
+7116,Yemen,Middle East & North Africa,15.1703,46.0272,doubt_terr,noseries_attack,realized_attack,no_suicide,Unknown,Military,Yemen,0,Unknown,3,2.0,7.0,domestic_attack
+8247,Iraq,Middle East & North Africa,36.319386,41.861473,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Private Citizens & Property,Iraq,0,Explosives,3,0.0,0.0,domestic_attack
+3266,West Bank and Gaza Strip,Middle East & North Africa,31.530243,35.094162,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,NGO,International,0,Firearms,0,0.0,0.0,internat_unkown
+9959,Iraq,Middle East & North Africa,34.477619,41.920773,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Unknown,Iraq,0,Explosives,0,0.0,0.0,internat_unkown
+6803,India,South Asia,33.776319,75.005476,doubt_terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Military,India,0,Firearms,2,0.0,1.0,international_attack
+6047,Iraq,Middle East & North Africa,33.420948,43.295662,doubt_terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Military,Iraq,0,Explosives,1,0.0,3.0,domestic_attack
+4970,Libya,Middle East & North Africa,32.069286,20.151144,terr,noseries_attack,realized_attack,no_suicide,Assassination,Government (General),Libya,0,Explosives,0,0.0,5.0,internat_unkown
+5568,Nepal,South Asia,26.638654,87.989131,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Unknown,Nepal,0,Explosives,0,0.0,0.0,internat_unkown
+5599,Iraq,Middle East & North Africa,36.354145,43.14357,doubt_terr,noseries_attack,realized_attack,no_suicide,Unknown,Military,Iraq,1,Unknown,0,0.0,1.0,domestic_attack
+7753,Russia,Eastern Europe,56.001075,36.87295,terr,noseries_attack,realized_attack,no_suicide,Facility/Infrastructure Attack,Journalists & Media,Russia,0,Incendiary,0,0.0,0.0,internat_unkown
+7418,Afghanistan,South Asia,33.656812,68.660557,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Government (General),Afghanistan,0,Firearms,10,7.0,12.0,domestic_attack
+9287,Yemen,Middle East & North Africa,15.325443,44.211895,terr,noseries_attack,realized_attack,no_suicide,Facility/Infrastructure Attack,Government (Diplomatic),Sudan,0,Firearms,0,0.0,0.0,domestic_attack
+9103,Afghanistan,South Asia,36.349733,69.476141,terr,noseries_attack,realized_attack,no_suicide,Assassination,Private Citizens & Property,Afghanistan,0,Explosives,2,0.0,8.0,internat_unkown
+6128,India,South Asia,26.781022,88.241191,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Government (General),India,0,Melee,0,0.0,0.0,domestic_attack
+2797,Democratic Republic of the Congo,Sub-Saharan Africa,-6.494722,22.037222,terr,noseries_attack,realized_attack,no_suicide,Hostage Taking (Kidnapping),Government (General),Democratic Republic of the Congo,0,Melee,1,0.0,0.0,domestic_attack
+7429,Nigeria,Sub-Saharan Africa,11.645861,13.347639,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Military,Nigeria,0,Firearms,5,0.0,0.0,domestic_attack
+5189,Iraq,Middle East & North Africa,35.45211,44.375465,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Unknown,Iraq,0,Explosives,0,0.0,0.0,internat_unkown
+3210,Afghanistan,South Asia,32.380833,66.336389,doubt_terr,noseries_attack,realized_attack,no_suicide,Unknown,Military,Afghanistan,0,Unknown,10,10.0,16.0,domestic_attack
+1139,Iraq,Middle East & North Africa,33.403057,43.911865,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Unknown,Iraq,0,Explosives,0,0.0,0.0,internat_unkown
+7496,Myanmar,Southeast Asia,20.823738,92.370789,terr,noseries_attack,realized_attack,no_suicide,Assassination,Government (General),Myanmar,0,Unknown,1,0.0,0.0,domestic_attack
+9775,Yemen,Middle East & North Africa,15.872621,48.629935,terr,noseries_attack,realized_attack,no_suicide,Assassination,Terrorists/Non-State Militia,Yemen,0,Firearms,1,0.0,0.0,internat_unkown
+3829,Iraq,Middle East & North Africa,33.303566,44.371773,terr,noseries_attack,realized_attack,no_suicide,Assassination,Government (General),Iraq,0,Explosives,0,0.0,0.0,internat_unkown
+1702,India,South Asia,18.515368,81.543785,terr,noseries_attack,realized_attack,no_suicide,Facility/Infrastructure Attack,Business,India,0,Unknown,0,0.0,0.0,internat_unkown
+8138,Somalia,Sub-Saharan Africa,2.059819,45.326115,terr,noseries_attack,realized_attack,no_suicide,Assassination,Government (General),Somalia,0,Firearms,2,0.0,1.0,domestic_attack
+369,Syria,Middle East & North Africa,33.614848,36.182095,doubt_terr,noseries_attack,realized_attack,no_suicide,Assassination,Government (General),Syria,0,Firearms,1,0.0,0.0,domestic_attack
+914,Iraq,Middle East & North Africa,33.057991,44.354839,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Private Citizens & Property,Iraq,0,Explosives,0,0.0,2.0,internat_unkown
+7550,Mali,Sub-Saharan Africa,18.905003,-3.528343,doubt_terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Military,Mali,0,Firearms,0,0.0,2.0,internat_unkown
+1961,Macedonia,Eastern Europe,41.029677,21.329216,terr,noseries_attack,realized_attack,no_suicide,Facility/Infrastructure Attack,Business,Macedonia,0,Incendiary,0,0.0,0.0,internat_unkown
+10127,Iraq,Middle East & North Africa,33.74324,44.623825,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Private Citizens & Property,Iraq,0,Explosives,0,0.0,3.0,internat_unkown
+4569,India,South Asia,23.919594,86.03956,terr,noseries_attack,realized_attack,no_suicide,Unarmed Assault,Private Citizens & Property,India,0,Incendiary,0,0.0,0.0,domestic_attack
+2113,Pakistan,South Asia,31.50547,74.34288,terr,noseries_attack,realized_attack,no_suicide,Assassination,Violent Political Party,Pakistan,0,Firearms,1,0.0,0.0,internat_unkown
+9782,Pakistan,South Asia,26.657392,64.131126,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Government (General),Pakistan,0,Explosives,0,0.0,1.0,internat_unkown
+9197,Iraq,Middle East & North Africa,34.477619,41.920773,doubt_terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Military,Iraq,0,Explosives,0,0.0,0.0,domestic_attack
+5879,Afghanistan,South Asia,34.516895,69.147011,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Private Citizens & Property,Afghanistan,0,Explosives,2,0.0,4.0,internat_unkown
+1379,Myanmar,Southeast Asia,20.86951,92.527221,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Military,Myanmar,0,Firearms,0,0.0,2.0,internat_unkown
+3321,Iraq,Middle East & North Africa,36.354145,43.14357,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Unknown,Iraq,0,Explosives,0,0.0,0.0,internat_unkown
+1005,Iraq,Middle East & North Africa,36.354145,43.14357,terr,within_series,no_attack,suicide_attack,Bombing/Explosion,Unknown,Iraq,1,Explosives,0,0.0,0.0,internat_unkown
+3454,Nigeria,Sub-Saharan Africa,11.831098,13.150967,terr,within_series,no_attack,suicide_attack,Bombing/Explosion,Unknown,Nigeria,0,Explosives,1,1.0,0.0,domestic_attack
+5424,Afghanistan,South Asia,36.23828,64.864446,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Military,Afghanistan,0,Firearms,2,1.0,2.0,domestic_attack
+2992,Iraq,Middle East & North Africa,33.433811,38.922878,terr,within_series,no_attack,suicide_attack,Bombing/Explosion,Military,Iraq,0,Explosives,23,20.0,0.0,domestic_attack
+6820,Indonesia,Southeast Asia,0.559,121.211122,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Private Citizens & Property,Indonesia,0,Firearms,1,0.0,0.0,domestic_attack
+8006,India,South Asia,18.757196,80.712718,terr,noseries_attack,realized_attack,no_suicide,Facility/Infrastructure Attack,Business,India,0,Incendiary,0,0.0,0.0,internat_unkown
+7171,Jordan,Middle East & North Africa,31.914264,35.934998,terr,noseries_attack,realized_attack,no_suicide,Facility/Infrastructure Attack,Government (General),Jordan,0,Firearms,0,0.0,0.0,internat_unkown
+3483,Somalia,Sub-Saharan Africa,-0.356046,42.546057,doubt_terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Military,Somalia,0,Explosives,3,0.0,4.0,domestic_attack
+101,Afghanistan,South Asia,33.326099,68.416649,terr,noseries_attack,realized_attack,no_suicide,Assassination,Government (General),Afghanistan,0,Firearms,1,0.0,0.0,domestic_attack
+6448,Philippines,Southeast Asia,7.609688,125.088363,doubt_terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Military,Philippines,0,Explosives,1,0.0,11.0,domestic_attack
+10700,Somalia,Sub-Saharan Africa,2.059819,45.326115,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Military,International,0,Explosives,1,0.0,3.0,domestic_attack
+1248,Somalia,Sub-Saharan Africa,2.591019,45.370174,doubt_terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Military,Somalia,0,Explosives,3,1.0,3.0,domestic_attack
+168,Philippines,Southeast Asia,12.407778,123.405833,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Private Citizens & Property,Philippines,0,Firearms,1,0.0,0.0,internat_unkown
+9293,Iraq,Middle East & North Africa,35.161325,44.391842,terr,noseries_attack,realized_attack,no_suicide,Assassination,Journalists & Media,Iraq,0,Firearms,1,0.0,0.0,internat_unkown
+2265,Germany,Western Europe,53.551427,9.991202,terr,noseries_attack,realized_attack,no_suicide,Facility/Infrastructure Attack,Police,Germany,0,Incendiary,0,0.0,0.0,internat_unkown
+6231,Syria,Middle East & North Africa,34.812582,37.477768,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Private Citizens & Property,Syria,0,Explosives,0,0.0,1.0,domestic_attack
+10694,Afghanistan,South Asia,34.099578,64.905955,terr,noseries_attack,realized_attack,no_suicide,Facility/Infrastructure Attack,Journalists & Media,Afghanistan,0,Incendiary,0,0.0,0.0,internat_unkown
+8674,Iraq,Middle East & North Africa,33.303566,44.371773,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Private Citizens & Property,Iraq,0,Explosives,0,0.0,2.0,internat_unkown
+5829,Libya,Middle East & North Africa,27.022867,14.441218,terr,noseries_attack,realized_attack,no_suicide,Hostage Taking (Barricade Incident),Government (General),Libya,0,Firearms,0,0.0,0.0,internat_unkown
+1096,Somalia,Sub-Saharan Africa,11.274796,49.179657,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Business,Somalia,0,Firearms,6,2.0,2.0,domestic_attack
+9408,Iraq,Middle East & North Africa,36.407394,42.964626,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Police,Iraq,0,Explosives,3,0.0,1.0,internat_unkown
+1794,Iraq,Middle East & North Africa,36.411911,43.042931,terr,noseries_attack,realized_attack,no_suicide,Unknown,Private Citizens & Property,Iraq,0,Unknown,0,0.0,0.0,domestic_attack
+2144,South Sudan,Sub-Saharan Africa,8.133056,30.004444,terr,noseries_attack,realized_attack,no_suicide,Hostage Taking (Kidnapping),NGO,International,0,Firearms,0,0.0,0.0,domestic_attack
+6607,Iraq,Middle East & North Africa,33.953167,44.921906,terr,within_series,no_attack,suicide_attack,Bombing/Explosion,Business,Iraq,0,Explosives,1,1.0,2.0,domestic_attack
+4448,Afghanistan,South Asia,32.125717,65.925926,doubt_terr,noseries_attack,realized_attack,no_suicide,Hostage Taking (Kidnapping),Military,Afghanistan,0,Firearms,25,7.0,31.0,domestic_attack
+10256,Kenya,Sub-Saharan Africa,1.126982,34.584322,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Private Citizens & Property,Kenya,0,Firearms,4,2.0,0.0,domestic_attack
+2932,Iraq,Middle East & North Africa,36.385278,42.888889,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Unknown,Iraq,0,Explosives,0,0.0,0.0,internat_unkown
+2833,India,South Asia,29.27586,77.730901,terr,noseries_attack,realized_attack,no_suicide,Assassination,Violent Political Party,India,0,Firearms,1,0.0,0.0,internat_unkown
+5232,India,South Asia,34.472236,74.28777,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Police,India,0,Firearms,0,0.0,0.0,internat_unkown
+3466,Iraq,Middle East & North Africa,36.354145,43.14357,doubt_terr,within_series,no_attack,suicide_attack,Bombing/Explosion,Military,Iraq,0,Explosives,19,19.0,0.0,domestic_attack
+3554,Afghanistan,South Asia,34.229213,70.193208,doubt_terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Military,Afghanistan,0,Firearms,1,1.0,3.0,domestic_attack
+2655,India,South Asia,24.798346,93.94043,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Government (General),India,0,Explosives,0,0.0,0.0,internat_unkown
+2482,Afghanistan,South Asia,37.339167,69.5825,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Government (General),Afghanistan,0,Firearms,2,2.0,4.0,domestic_attack
+4282,Libya,Middle East & North Africa,32.069286,20.151144,doubt_terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Military,Libya,0,Explosives,1,0.0,0.0,internat_unkown
+2238,Nigeria,Sub-Saharan Africa,6.492222,5.884444,doubt_terr,noseries_attack,realized_attack,no_suicide,Assassination,Government (General),Nigeria,3,Firearms,1,0.0,2.0,internat_unkown
+4183,Afghanistan,South Asia,35.018158,69.168991,doubt_terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Military,International,0,Explosives,0,0.0,0.0,internat_unkown
+2869,India,South Asia,19.329598,80.040918,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Unknown,India,0,Explosives,0,0.0,0.0,internat_unkown
+1427,Iraq,Middle East & North Africa,33.864799,42.536385,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Private Citizens & Property,Iraq,0,Explosives,3,0.0,0.0,domestic_attack
+7776,Syria,Middle East & North Africa,35.333061,40.138737,doubt_terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Military,Russia,0,Explosives,2,0.0,0.0,domestic_attack
+2708,India,South Asia,12.470556,77.001667,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Educational Institution,India,0,Melee,1,0.0,0.0,internat_unkown
+3445,Afghanistan,South Asia,31.499713,65.000854,terr,noseries_attack,realized_attack,no_suicide,Assassination,Police,Afghanistan,0,Firearms,1,0.0,0.0,internat_unkown
+10184,Afghanistan,South Asia,34.516895,69.147011,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Private Citizens & Property,Afghanistan,0,Explosives,0,0.0,3.0,internat_unkown
+9152,Iraq,Middle East & North Africa,33.303566,44.371773,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Business,Iraq,0,Explosives,0,0.0,4.0,internat_unkown
+6218,Iraq,Middle East & North Africa,36.03258,45.008817,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Unknown,Iraq,0,Explosives,3,3.0,0.0,domestic_attack
+6222,Pakistan,South Asia,30.354935,66.944313,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Unknown,Pakistan,0,Explosives,0,0.0,0.0,internat_unkown
+9462,Pakistan,South Asia,29.047852,66.593323,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Police,Pakistan,0,Firearms,1,0.0,0.0,internat_unkown
+10639,Philippines,Southeast Asia,7.172751,124.229664,doubt_terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Military,Philippines,0,Explosives,0,0.0,0.0,domestic_attack
+8780,Mali,Sub-Saharan Africa,14.968478,0.702219,doubt_terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Military,Mali,0,Firearms,1,0.0,6.0,domestic_attack
+7384,Iraq,Middle East & North Africa,33.303566,44.371773,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Private Citizens & Property,Iraq,0,Explosives,0,0.0,3.0,internat_unkown
+585,Iraq,Middle East & North Africa,33.435279,43.281158,doubt_terr,noseries_attack,realized_attack,no_suicide,Unknown,Military,Iraq,0,Unknown,4,0.0,0.0,domestic_attack
+9531,India,South Asia,19.107132,81.953482,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Police,India,0,Melee,1,0.0,1.0,domestic_attack
+1099,Pakistan,South Asia,35.92016,74.307975,terr,noseries_attack,realized_attack,no_suicide,Assassination,Government (General),Pakistan,0,Firearms,0,0.0,0.0,internat_unkown
+9454,Afghanistan,South Asia,35.947552,68.710327,terr,noseries_attack,realized_attack,no_suicide,Unknown,Police,Afghanistan,0,Unknown,10,10.0,13.0,domestic_attack
+1424,Pakistan,South Asia,35.457713,75.446352,terr,noseries_attack,realized_attack,no_suicide,Assassination,Private Citizens & Property,Pakistan,0,Firearms,1,0.0,0.0,internat_unkown
+4377,Iraq,Middle East & North Africa,33.303566,44.371773,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Unknown,Iraq,0,Explosives,0,0.0,0.0,internat_unkown
+1401,Nigeria,Sub-Saharan Africa,8.906662,8.407457,terr,noseries_attack,realized_attack,no_suicide,Assassination,Private Citizens & Property,Nigeria,0,Firearms,2,0.0,0.0,internat_unkown
+10610,Greece,Western Europe,37.99749,23.762728,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Private Citizens & Property,Greece,0,Explosives,0,0.0,0.0,internat_unkown
+5145,Iraq,Middle East & North Africa,33.31065,44.038208,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Business,Iraq,0,Explosives,0,0.0,2.0,internat_unkown
+6979,Turkey,Middle East & North Africa,37.080181,41.220196,doubt_terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Military,Turkey,0,Firearms,0,0.0,1.0,domestic_attack
+7439,India,South Asia,27.046316,88.271156,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Private Citizens & Property,India,0,Explosives,0,0.0,0.0,domestic_attack
+3700,Philippines,Southeast Asia,6.980848,124.482925,doubt_terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Military,Philippines,0,Explosives,0,0.0,0.0,domestic_attack
+1421,Philippines,Southeast Asia,6.102634,118.446977,terr,noseries_attack,realized_attack,no_suicide,Hijacking,Maritime,Vietnam,0,Firearms,4,0.0,0.0,domestic_attack
+7073,India,South Asia,34.08374,74.789902,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Police,India,0,Incendiary,1,0.0,0.0,internat_unkown
+4223,Syria,Middle East & North Africa,35.28798,40.308863,terr,noseries_attack,realized_attack,no_suicide,Hostage Taking (Kidnapping),Terrorists/Non-State Militia,Syria,0,Firearms,31,0.0,0.0,domestic_attack
+10408,West Bank and Gaza Strip,Middle East & North Africa,31.952739,35.212014,doubt_terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Military,Israel,0,Firearms,0,0.0,0.0,internat_unkown
+10082,Nigeria,Sub-Saharan Africa,9.550021,8.787427,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Private Citizens & Property,Nigeria,-99,Firearms,0,0.0,0.0,internat_unkown
+10506,Turkey,Middle East & North Africa,41.106178,28.689863,terr,within_series,no_attack,suicide_attack,Bombing/Explosion,NGO,International,3,Explosives,0,0.0,0.0,domestic_attack
+7650,Thailand,Southeast Asia,6.29653,101.729097,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Police,Thailand,0,Explosives,0,0.0,0.0,internat_unkown
+8466,Iraq,Middle East & North Africa,35.326122,43.780811,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Unknown,Iraq,0,Explosives,0,0.0,0.0,internat_unkown
+6916,Colombia,South America,3.03015,-76.29228,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Government (Diplomatic),International,0,Firearms,0,0.0,1.0,domestic_attack
+769,Iraq,Middle East & North Africa,36.238889,42.938056,doubt_terr,noseries_attack,realized_attack,no_suicide,Unknown,Military,Iraq,0,Unknown,41,41.0,0.0,domestic_attack
+984,Egypt,Middle East & North Africa,31.126646,33.800865,doubt_terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Military,Egypt,0,Firearms,1,0.0,0.0,internat_unkown
+5773,Pakistan,South Asia,25.83236,62.261208,doubt_terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Military,Pakistan,0,Explosives,0,0.0,1.0,domestic_attack
+9537,Iraq,Middle East & North Africa,36.354145,43.14357,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Private Citizens & Property,Iraq,0,Explosives,0,0.0,2.0,domestic_attack
+7411,Israel,Middle East & North Africa,31.771599,35.2034,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Private Citizens & Property,Israel,1,Melee,0,0.0,0.0,internat_unkown
+408,Pakistan,South Asia,33.590603,71.44062,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Unknown,Pakistan,0,Explosives,0,0.0,0.0,internat_unkown
+9208,Kenya,Sub-Saharan Africa,-4.090508,39.647758,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Private Citizens & Property,Kenya,0,Melee,0,0.0,1.0,internat_unkown
+4659,Nigeria,Sub-Saharan Africa,11.053073,12.807238,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Private Citizens & Property,Nigeria,0,Firearms,14,0.0,0.0,domestic_attack
+3670,Nigeria,Sub-Saharan Africa,11.544192,13.34286,terr,within_series,no_attack,suicide_attack,Bombing/Explosion,Private Citizens & Property,Nigeria,0,Explosives,7,2.0,6.0,domestic_attack
+5676,Somalia,Sub-Saharan Africa,2.089797,45.225731,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Military,Somalia,0,Explosives,3,0.0,2.0,internat_unkown
+6098,India,South Asia,34.651772,73.970007,doubt_terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Military,India,0,Firearms,2,0.0,0.0,internat_unkown
+8822,Iraq,Middle East & North Africa,35.45211,44.375465,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Violent Political Party,Iraq,0,Explosives,0,0.0,0.0,internat_unkown
+2973,Afghanistan,South Asia,31.631083,65.742226,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Police,Afghanistan,0,Explosives,0,0.0,2.0,internat_unkown
+2929,Iraq,Middle East & North Africa,34.209771,45.004063,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Unknown,Iraq,0,Explosives,0,0.0,0.0,internat_unkown
+8594,China,East Asia,22.281662,113.936252,terr,noseries_attack,realized_attack,no_suicide,Facility/Infrastructure Attack,Private Citizens & Property,China,1,Incendiary,0,0.0,0.0,internat_unkown
+5440,India,South Asia,18.759336,81.556122,terr,noseries_attack,realized_attack,no_suicide,Unarmed Assault,Business,India,0,Incendiary,0,0.0,3.0,internat_unkown
+7440,India,South Asia,27.046316,88.271156,terr,noseries_attack,realized_attack,no_suicide,Facility/Infrastructure Attack,Business,India,0,Incendiary,0,0.0,0.0,domestic_attack
+48,Iraq,Middle East & North Africa,34.208416,43.890713,terr,within_series,no_attack,suicide_attack,Bombing/Explosion,Police,Iraq,0,Explosives,6,2.0,0.0,domestic_attack
+7019,Iraq,Middle East & North Africa,33.303566,44.371773,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Private Citizens & Property,Iraq,0,Explosives,1,0.0,3.0,domestic_attack
+7808,Philippines,Southeast Asia,15.071862,120.076634,terr,noseries_attack,realized_attack,no_suicide,Assassination,Government (General),Philippines,0,Firearms,0,0.0,1.0,domestic_attack
+986,Afghanistan,South Asia,33.049722,68.645556,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Religious Figures/Institutions,Afghanistan,0,Firearms,2,0.0,0.0,internat_unkown
+3436,West Bank and Gaza Strip,Middle East & North Africa,32.154514,35.258553,doubt_terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Military,Israel,1,Melee,0,0.0,1.0,domestic_attack
+186,Somalia,Sub-Saharan Africa,2.059819,45.326115,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Business,Somalia,0,Explosives,3,0.0,17.0,domestic_attack
+127,Libya,Middle East & North Africa,32.069286,20.151144,doubt_terr,within_series,no_attack,suicide_attack,Bombing/Explosion,Military,Libya,0,Explosives,6,3.0,0.0,domestic_attack
+596,Nigeria,Sub-Saharan Africa,9.366753,9.960951,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Police,Nigeria,0,Firearms,1,0.0,0.0,internat_unkown
+3094,Afghanistan,South Asia,33.706199,69.383108,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Military,Afghanistan,0,Explosives,3,0.0,2.0,domestic_attack
+2868,Philippines,Southeast Asia,16.391184,121.107312,terr,noseries_attack,realized_attack,no_suicide,Assassination,Government (General),Philippines,0,Firearms,1,0.0,1.0,internat_unkown
+9684,Philippines,Southeast Asia,9.34528,125.552905,terr,noseries_attack,realized_attack,no_suicide,Facility/Infrastructure Attack,Business,Philippines,0,Incendiary,0,0.0,0.0,domestic_attack
+8257,Iraq,Middle East & North Africa,34.45,43.583333,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Unknown,Iraq,0,Explosives,0,0.0,0.0,internat_unkown
+7179,Iraq,Middle East & North Africa,36.354145,43.14357,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Unknown,Iraq,0,Explosives,0,0.0,0.0,internat_unkown
+1451,United Kingdom,Western Europe,54.654197,-5.673065,terr,noseries_attack,realized_attack,no_suicide,Facility/Infrastructure Attack,Private Citizens & Property,Northern Ireland,0,Incendiary,0,0.0,0.0,internat_unkown
+31,Somalia,Sub-Saharan Africa,2.002975,45.273875,terr,within_series,no_attack,suicide_attack,Bombing/Explosion,Military,Somalia,0,Explosives,6,1.0,11.0,domestic_attack
+660,Somalia,Sub-Saharan Africa,2.14383,45.118061,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Police,Somalia,0,Explosives,9,9.0,0.0,domestic_attack
+2497,Iraq,Middle East & North Africa,33.303566,44.371773,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Business,Iraq,0,Explosives,0,0.0,2.0,internat_unkown
+7973,Afghanistan,South Asia,34.958206,69.303702,terr,within_series,no_attack,suicide_attack,Bombing/Explosion,Military,International,0,Explosives,1,1.0,9.0,domestic_attack
+7591,Iraq,Middle East & North Africa,36.376823,42.448875,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Unknown,Iraq,0,Explosives,0,0.0,0.0,internat_unkown
+8524,Afghanistan,South Asia,32.323943,65.11858,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Utilities,Afghanistan,0,Explosives,0,0.0,1.0,domestic_attack
+4101,India,South Asia,23.618734,84.765502,terr,noseries_attack,realized_attack,no_suicide,Facility/Infrastructure Attack,Business,India,0,Incendiary,0,0.0,0.0,domestic_attack
+10536,Afghanistan,South Asia,35.2222,71.363757,doubt_terr,noseries_attack,realized_attack,no_suicide,Unknown,Military,Afghanistan,3,Unknown,10,10.0,0.0,domestic_attack
+1423,Nigeria,Sub-Saharan Africa,10.875,13.328889,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Private Citizens & Property,Nigeria,0,Firearms,3,0.0,9.0,domestic_attack
+140,Afghanistan,South Asia,36.157001,68.720306,terr,noseries_attack,realized_attack,no_suicide,Assassination,Violent Political Party,Afghanistan,0,Firearms,1,0.0,0.0,internat_unkown
+6786,India,South Asia,25.213064,90.762825,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Private Citizens & Property,India,0,Firearms,1,0.0,0.0,domestic_attack
+8510,Philippines,Southeast Asia,12.63597,123.659062,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Police,Philippines,0,Firearms,1,0.0,0.0,domestic_attack
+9915,Sudan,Sub-Saharan Africa,12.941695,24.395833,terr,noseries_attack,realized_attack,no_suicide,Hijacking,Government (General),Sudan,-99,Firearms,0,0.0,1.0,internat_unkown
+7368,Iraq,Middle East & North Africa,36.371177,42.384803,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Unknown,Iraq,0,Explosives,0,0.0,0.0,domestic_attack
+8767,Iraq,Middle East & North Africa,35.45211,44.375465,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Violent Political Party,Iraq,0,Explosives,0,0.0,0.0,internat_unkown
+10834,Egypt,Middle East & North Africa,29.831976,31.337257,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Business,Egypt,-99,Firearms,2,0.0,0.0,domestic_attack
+5099,Bangladesh,South Asia,21.212501,92.163008,terr,noseries_attack,realized_attack,no_suicide,Hostage Taking (Kidnapping),Private Citizens & Property,Bangladesh,0,Melee,2,0.0,0.0,international_attack
+5008,Iraq,Middle East & North Africa,33.248908,44.091479,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Unknown,Iraq,0,Explosives,0,0.0,0.0,internat_unkown
+9636,Indonesia,Southeast Asia,-4.457827,137.122554,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Business,Indonesia,0,Firearms,0,0.0,0.0,international_attack
+3354,Philippines,Southeast Asia,12.483523,123.758673,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Military,Philippines,0,Explosives,0,0.0,2.0,internat_unkown
+7122,Libya,Middle East & North Africa,32.539491,12.529803,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Business,Libya,0,Firearms,1,0.0,0.0,internat_unkown
+9953,India,South Asia,25.073564,86.438639,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Unknown,India,0,Explosives,0,0.0,0.0,internat_unkown
+7374,Cameroon,Sub-Saharan Africa,11.236522,14.126195,terr,within_series,no_attack,suicide_attack,Bombing/Explosion,Terrorists/Non-State Militia,Cameroon,0,Explosives,5,1.0,0.0,international_attack
+2968,India,South Asia,33.683363,75.219855,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Police,India,0,Firearms,0,0.0,0.0,internat_unkown
+4964,Iraq,Middle East & North Africa,36.354145,43.14357,terr,noseries_attack,realized_attack,no_suicide,Bombing/Explosion,Unknown,Iraq,0,Explosives,0,0.0,0.0,internat_unkown
+3135,South Sudan,Sub-Saharan Africa,4.099912,30.66985,terr,noseries_attack,realized_attack,no_suicide,Hostage Taking (Kidnapping),Private Citizens & Property,South Sudan,0,Melee,0,0.0,1.0,internat_unkown
+4986,Pakistan,South Asia,24.891115,67.143311,terr,noseries_attack,realized_attack,no_suicide,Assassination,Government (General),Pakistan,0,Firearms,0,0.0,1.0,internat_unkown
+10621,India,South Asia,25.078006,86.222193,terr,noseries_attack,realized_attack,no_suicide,Assassination,Government (General),India,0,Melee,1,0.0,0.0,domestic_attack
+7130,Nigeria,Sub-Saharan Africa,9.136674,12.178641,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Private Citizens & Property,Nigeria,0,Firearms,1,0.0,0.0,domestic_attack
+3469,West Bank and Gaza Strip,Middle East & North Africa,32.154514,35.258553,terr,noseries_attack,realized_attack,no_suicide,Facility/Infrastructure Attack,Private Citizens & Property,West Bank and Gaza Strip,0,Incendiary,0,0.0,0.0,international_attack
+10366,Afghanistan,South Asia,31.511396,64.111862,terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Police,Afghanistan,0,Firearms,0,0.0,2.0,domestic_attack
+5933,Iraq,Middle East & North Africa,36.354145,43.14357,doubt_terr,noseries_attack,realized_attack,no_suicide,Armed Assault,Military,Iraq,0,Firearms,5,0.0,25.0,domestic_attack
